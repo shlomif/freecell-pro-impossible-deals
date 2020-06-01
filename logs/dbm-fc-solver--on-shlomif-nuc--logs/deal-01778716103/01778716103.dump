@@ -1,0 +1,1939 @@
+1591016515.046541929	instance_run_all_threads start
+1591016515.052485943	Running threads for curr_depth=0
+1591016515.052512884	instance_run_solver_thread start
+1591016515.052515984	instance_run_solver_thread end
+1591016515.052517891	Finished running threads for curr_depth=0
+1591016515.052520990	Start mark-and-sweep cleanup for curr_depth=0
+1591016515.052522898	Finish mark-and-sweep cleanup for curr_depth=0
+1591016515.052525043	Running threads for curr_depth=1
+1591016515.052526951	instance_run_solver_thread start
+1591016515.052530050	instance_run_solver_thread end
+1591016515.052531958	Finished running threads for curr_depth=1
+1591016515.052534103	Start mark-and-sweep cleanup for curr_depth=1
+1591016515.052536011	Finish mark-and-sweep cleanup for curr_depth=1
+1591016515.052539110	Running threads for curr_depth=2
+1591016515.052541018	instance_run_solver_thread start
+1591016515.052542925	instance_run_solver_thread end
+1591016515.052546024	Finished running threads for curr_depth=2
+1591016515.052547932	Start mark-and-sweep cleanup for curr_depth=2
+1591016515.052550077	Finish mark-and-sweep cleanup for curr_depth=2
+1591016515.052551985	Running threads for curr_depth=3
+1591016515.052553892	instance_run_solver_thread start
+1591016515.052557945	instance_run_solver_thread end
+1591016515.052561045	Finished running threads for curr_depth=3
+1591016515.052562952	Start mark-and-sweep cleanup for curr_depth=3
+1591016515.052565098	Finish mark-and-sweep cleanup for curr_depth=3
+1591016515.052567959	Running threads for curr_depth=4
+1591016515.052570105	instance_run_solver_thread start
+1591016515.052572966	instance_run_solver_thread end
+1591016515.052584887	Finished running threads for curr_depth=4
+1591016515.052591085	Start mark-and-sweep cleanup for curr_depth=4
+1591016515.052594900	Finish mark-and-sweep cleanup for curr_depth=4
+1591016515.052598953	Running threads for curr_depth=5
+1591016515.052603006	instance_run_solver_thread start
+1591016515.054840088	instance_run_solver_thread end
+1591016515.054852962	Finished running threads for curr_depth=5
+1591016515.054856062	Start mark-and-sweep cleanup for curr_depth=5
+1591016515.054877043	Finish mark-and-sweep cleanup for curr_depth=5
+1591016515.054878950	Running threads for curr_depth=6
+1591016515.054881096	instance_run_solver_thread start
+1591016515.061500072	instance_run_solver_thread end
+1591016515.061511993	Finished running threads for curr_depth=6
+1591016515.061515093	Start mark-and-sweep cleanup for curr_depth=6
+1591016515.061534882	Finish mark-and-sweep cleanup for curr_depth=6
+1591016515.061537981	Running threads for curr_depth=7
+1591016515.061541080	instance_run_solver_thread start
+1591016515.069977999	instance_run_solver_thread end
+1591016515.069989920	Finished running threads for curr_depth=7
+1591016515.070012093	Start mark-and-sweep cleanup for curr_depth=7
+1591016515.070014954	Finish mark-and-sweep cleanup for curr_depth=7
+1591016515.070018053	Running threads for curr_depth=8
+1591016515.070019960	instance_run_solver_thread start
+1591016515.078702927	instance_run_solver_thread end
+1591016515.078715086	Finished running threads for curr_depth=8
+1591016515.078736067	Start mark-and-sweep cleanup for curr_depth=8
+1591016515.078752995	Finish mark-and-sweep cleanup for curr_depth=8
+1591016515.078759909	Running threads for curr_depth=9
+1591016515.078763008	instance_run_solver_thread start
+1591016515.088112116	instance_run_solver_thread end
+1591016515.088124037	Finished running threads for curr_depth=9
+1591016515.088145018	Start mark-and-sweep cleanup for curr_depth=9
+1591016515.088241100	Finish mark-and-sweep cleanup for curr_depth=9
+1591016515.088252068	Running threads for curr_depth=10
+1591016515.088274002	instance_run_solver_thread start
+1591016515.099061966	instance_run_solver_thread end
+1591016515.099073887	Finished running threads for curr_depth=10
+1591016515.099095106	Start mark-and-sweep cleanup for curr_depth=10
+1591016515.099191904	Finish mark-and-sweep cleanup for curr_depth=10
+1591016515.099203110	Running threads for curr_depth=11
+1591016515.099225044	instance_run_solver_thread start
+1591016515.111536026	instance_run_solver_thread end
+1591016515.111547947	Finished running threads for curr_depth=11
+1591016515.111551046	Start mark-and-sweep cleanup for curr_depth=11
+1591016515.111707926	Finish mark-and-sweep cleanup for curr_depth=11
+1591016515.111720085	Running threads for curr_depth=12
+1591016515.111722946	instance_run_solver_thread start
+1591016515.126353025	instance_run_solver_thread end
+1591016515.126364946	Finished running threads for curr_depth=12
+1591016515.126385927	Start mark-and-sweep cleanup for curr_depth=12
+1591016515.126542091	Finish mark-and-sweep cleanup for curr_depth=12
+1591016515.126554012	Running threads for curr_depth=13
+1591016515.126575947	instance_run_solver_thread start
+1591016515.141834021	instance_run_solver_thread end
+1591016515.141845942	Finished running threads for curr_depth=13
+1591016515.141849041	Start mark-and-sweep cleanup for curr_depth=13
+1591016515.142011881	Finish mark-and-sweep cleanup for curr_depth=13
+1591016515.142024040	Running threads for curr_depth=14
+1591016515.142026901	instance_run_solver_thread start
+1591016515.160404921	instance_run_solver_thread end
+1591016515.160417080	Finished running threads for curr_depth=14
+1591016515.160419941	Start mark-and-sweep cleanup for curr_depth=14
+1591016515.160603046	Finish mark-and-sweep cleanup for curr_depth=14
+1591016515.160614967	Running threads for curr_depth=15
+1591016515.160631895	instance_run_solver_thread start
+1591016515.183511972	instance_run_solver_thread end
+1591016515.183523893	Finished running threads for curr_depth=15
+1591016515.183526993	Start mark-and-sweep cleanup for curr_depth=15
+1591016515.183757067	Finish mark-and-sweep cleanup for curr_depth=15
+1591016515.183768988	Running threads for curr_depth=16
+1591016515.183772087	instance_run_solver_thread start
+1591016515.208784103	instance_run_solver_thread end
+1591016515.208796024	Finished running threads for curr_depth=16
+1591016515.208798885	Start mark-and-sweep cleanup for curr_depth=16
+1591016515.209045887	Finish mark-and-sweep cleanup for curr_depth=16
+1591016515.209058046	Running threads for curr_depth=17
+1591016515.209060907	instance_run_solver_thread start
+1591016515.244927883	instance_run_solver_thread end
+1591016515.244940042	Finished running threads for curr_depth=17
+1591016515.244942904	Start mark-and-sweep cleanup for curr_depth=17
+1591016515.245259047	Finish mark-and-sweep cleanup for curr_depth=17
+1591016515.245270014	Running threads for curr_depth=18
+1591016515.245274067	instance_run_solver_thread start
+1591016515.301085949	instance_run_solver_thread end
+1591016515.301099062	Finished running threads for curr_depth=18
+1591016515.301101923	Start mark-and-sweep cleanup for curr_depth=18
+1591016515.301529884	Finish mark-and-sweep cleanup for curr_depth=18
+1591016515.301541090	Running threads for curr_depth=19
+1591016515.301543951	instance_run_solver_thread start
+1591016515.387372971	instance_run_solver_thread end
+1591016515.387387037	Finished running threads for curr_depth=19
+1591016515.387391090	Start mark-and-sweep cleanup for curr_depth=19
+1591016515.388127089	Finish mark-and-sweep cleanup for curr_depth=19
+1591016515.388139009	Running threads for curr_depth=20
+1591016515.388142109	instance_run_solver_thread start
+1591016515.391263962	Reached 100000 ; States-in-collection: 115549 ; Time: 1591016515.391205
+1591016515.391275883	>>>Queue Stats: inserted=115549 items_in_queue=15549 extracted=100000
+1591016515.536410093	instance_run_solver_thread end
+1591016515.536437035	Finished running threads for curr_depth=20
+1591016515.536439896	Start mark-and-sweep cleanup for curr_depth=20
+1591016515.537744045	Finish mark-and-sweep cleanup for curr_depth=20
+1591016515.537758112	Running threads for curr_depth=21
+1591016515.537760973	instance_run_solver_thread start
+1591016515.750096083	instance_run_solver_thread end
+1591016515.750119925	Finished running threads for curr_depth=21
+1591016515.750142097	Start mark-and-sweep cleanup for curr_depth=21
+1591016515.752439976	Finish mark-and-sweep cleanup for curr_depth=21
+1591016515.752458096	Running threads for curr_depth=22
+1591016515.752479076	instance_run_solver_thread start
+1591016515.757184982	Reached 200000 ; States-in-collection: 224691 ; Time: 1591016515.757128
+1591016515.757200003	>>>Queue Stats: inserted=224691 items_in_queue=24691 extracted=200000
+1591016515.991918087	instance_run_solver_thread end
+1591016515.991945982	Finished running threads for curr_depth=22
+1591016515.991950035	Start mark-and-sweep cleanup for curr_depth=22
+1591016515.994556904	Finish mark-and-sweep cleanup for curr_depth=22
+1591016515.994577885	Running threads for curr_depth=23
+1591016515.994605064	instance_run_solver_thread start
+1591016516.133548021	Reached 300000 ; States-in-collection: 349537 ; Time: 1591016516.133489
+1591016516.133573055	>>>Queue Stats: inserted=349537 items_in_queue=49537 extracted=300000
+1591016516.628745079	Reached 400000 ; States-in-collection: 505778 ; Time: 1591016516.628687
+1591016516.628771067	>>>Queue Stats: inserted=505778 items_in_queue=105778 extracted=400000
+1591016516.915729046	instance_run_solver_thread end
+1591016516.915757895	Finished running threads for curr_depth=23
+1591016516.915760994	Start mark-and-sweep cleanup for curr_depth=23
+1591016516.923449993	Mark+Sweep Progress - 100000/187592
+1591016516.923476934	Finish mark-and-sweep cleanup for curr_depth=23
+1591016516.923496962	Running threads for curr_depth=24
+1591016516.923500061	instance_run_solver_thread start
+1591016517.129575014	Reached 500000 ; States-in-collection: 619625 ; Time: 1591016517.129514
+1591016517.129616022	>>>Queue Stats: inserted=619625 items_in_queue=119625 extracted=500000
+1591016517.579221010	Reached 600000 ; States-in-collection: 715758 ; Time: 1591016517.579157
+1591016517.579247952	>>>Queue Stats: inserted=715758 items_in_queue=115758 extracted=600000
+1591016517.764966965	instance_run_solver_thread end
+1591016517.764995098	Finished running threads for curr_depth=24
+1591016517.764997959	Start mark-and-sweep cleanup for curr_depth=24
+1591016517.779470921	Mark+Sweep Progress - 100000/197734
+1591016517.779495955	Finish mark-and-sweep cleanup for curr_depth=24
+1591016517.779516935	Running threads for curr_depth=25
+1591016517.779520035	instance_run_solver_thread start
+1591016517.948859930	Reached 700000 ; States-in-collection: 758479 ; Time: 1591016517.948797
+1591016517.948888063	>>>Queue Stats: inserted=758479 items_in_queue=58479 extracted=700000
+1591016518.464452028	Reached 800000 ; States-in-collection: 923505 ; Time: 1591016518.464394
+1591016518.464478016	>>>Queue Stats: inserted=923505 items_in_queue=123505 extracted=800000
+1591016519.042047024	Reached 900000 ; States-in-collection: 1071934 ; Time: 1591016519.041984
+1591016519.042072058	>>>Queue Stats: inserted=1071934 items_in_queue=171934 extracted=900000
+1591016519.626698971	Reached 1000000 ; States-in-collection: 1188720 ; Time: 1591016519.626634
+1591016519.626727104	>>>Queue Stats: inserted=1188720 items_in_queue=188720 extracted=1000000
+1591016519.942821026	instance_run_solver_thread end
+1591016519.942846060	Finished running threads for curr_depth=25
+1591016519.942869902	Start mark-and-sweep cleanup for curr_depth=25
+1591016519.975354910	Mark+Sweep Progress - 100000/410326
+1591016519.975383997	Mark+Sweep Progress - 200000/410326
+1591016519.975387096	Mark+Sweep Progress - 300000/410326
+1591016519.975389957	Mark+Sweep Progress - 400000/410326
+1591016519.975393057	Finish mark-and-sweep cleanup for curr_depth=25
+1591016519.975394964	Running threads for curr_depth=26
+1591016519.975398064	instance_run_solver_thread start
+1591016520.118223906	Reached 1100000 ; States-in-collection: 1278385 ; Time: 1591016520.118157
+1591016520.118252039	>>>Queue Stats: inserted=1278385 items_in_queue=178385 extracted=1100000
+1591016520.631067991	Reached 1200000 ; States-in-collection: 1390409 ; Time: 1591016520.631003
+1591016520.631097078	>>>Queue Stats: inserted=1390409 items_in_queue=190409 extracted=1200000
+1591016521.499346972	Reached 1300000 ; States-in-collection: 1655338 ; Time: 1591016521.499285
+1591016521.499376059	>>>Queue Stats: inserted=1655338 items_in_queue=355338 extracted=1300000
+1591016522.355588913	Reached 1400000 ; States-in-collection: 1878056 ; Time: 1591016522.355505
+1591016522.355631113	>>>Queue Stats: inserted=1878056 items_in_queue=478056 extracted=1400000
+1591016522.828054905	Reached 1500000 ; States-in-collection: 1882206 ; Time: 1591016522.828033
+1591016522.828080893	>>>Queue Stats: inserted=1882206 items_in_queue=382206 extracted=1500000
+1591016523.266020060	Reached 1600000 ; States-in-collection: 1889824 ; Time: 1591016523.265953
+1591016523.266048908	>>>Queue Stats: inserted=1889824 items_in_queue=289824 extracted=1600000
+1591016523.689838886	Reached 1700000 ; States-in-collection: 1918441 ; Time: 1591016523.689777
+1591016523.689865112	>>>Queue Stats: inserted=1918441 items_in_queue=218441 extracted=1700000
+1591016524.504798889	Reached 1800000 ; States-in-collection: 2170412 ; Time: 1591016524.504735
+1591016524.504826069	>>>Queue Stats: inserted=2170412 items_in_queue=370412 extracted=1800000
+1591016525.310450077	Reached 1900000 ; States-in-collection: 2421197 ; Time: 1591016525.310388
+1591016525.310477972	>>>Queue Stats: inserted=2421197 items_in_queue=521197 extracted=1900000
+1591016525.817504883	instance_run_solver_thread end
+1591016525.817537069	Finished running threads for curr_depth=26
+1591016525.817539930	Start mark-and-sweep cleanup for curr_depth=26
+1591016525.885824919	Mark+Sweep Progress - 100000/904720
+1591016525.885855913	Mark+Sweep Progress - 200000/904720
+1591016525.885859966	Mark+Sweep Progress - 300000/904720
+1591016525.885863066	Mark+Sweep Progress - 400000/904720
+1591016525.885865927	Mark+Sweep Progress - 500000/904720
+1591016525.885869026	Mark+Sweep Progress - 600000/904720
+1591016525.885871887	Mark+Sweep Progress - 700000/904720
+1591016525.885874987	Mark+Sweep Progress - 800000/904720
+1591016525.885878086	Mark+Sweep Progress - 900000/904720
+1591016525.885880947	Finish mark-and-sweep cleanup for curr_depth=26
+1591016525.885884047	Running threads for curr_depth=27
+1591016525.885886908	instance_run_solver_thread start
+1591016526.043041945	Reached 2000000 ; States-in-collection: 2604677 ; Time: 1591016526.042976
+1591016526.043070078	>>>Queue Stats: inserted=2604677 items_in_queue=604677 extracted=2000000
+1591016526.400887012	Reached 2100000 ; States-in-collection: 2641571 ; Time: 1591016526.400827
+1591016526.400913000	>>>Queue Stats: inserted=2641571 items_in_queue=541571 extracted=2100000
+1591016526.982219934	Reached 2200000 ; States-in-collection: 2737453 ; Time: 1591016526.982159
+1591016526.982245922	>>>Queue Stats: inserted=2737453 items_in_queue=537453 extracted=2200000
+1591016527.572915077	Reached 2300000 ; States-in-collection: 2805587 ; Time: 1591016527.572851
+1591016527.572942972	>>>Queue Stats: inserted=2805587 items_in_queue=505587 extracted=2300000
+1591016528.276366949	Reached 2400000 ; States-in-collection: 2908837 ; Time: 1591016528.276304
+1591016528.276395082	>>>Queue Stats: inserted=2908837 items_in_queue=508837 extracted=2400000
+1591016528.937975883	Reached 2500000 ; States-in-collection: 3005745 ; Time: 1591016528.937912
+1591016528.938003063	>>>Queue Stats: inserted=3005745 items_in_queue=505745 extracted=2500000
+1591016529.613256931	Reached 2600000 ; States-in-collection: 3160573 ; Time: 1591016529.613184
+1591016529.613285065	>>>Queue Stats: inserted=3160573 items_in_queue=560573 extracted=2600000
+1591016529.963680029	instance_run_solver_thread end
+1591016529.963709116	Finished running threads for curr_depth=27
+1591016529.963712931	Start mark-and-sweep cleanup for curr_depth=27
+1591016530.035676003	Mark+Sweep Progress - 100000/701960
+1591016530.035706997	Mark+Sweep Progress - 200000/701960
+1591016530.035711050	Mark+Sweep Progress - 300000/701960
+1591016530.035713911	Mark+Sweep Progress - 400000/701960
+1591016530.035717010	Mark+Sweep Progress - 500000/701960
+1591016530.035720110	Mark+Sweep Progress - 600000/701960
+1591016530.035722017	Mark+Sweep Progress - 700000/701960
+1591016530.035725117	Finish mark-and-sweep cleanup for curr_depth=27
+1591016530.035727978	Running threads for curr_depth=28
+1591016530.035731077	instance_run_solver_thread start
+1591016530.121515036	Reached 2700000 ; States-in-collection: 3243301 ; Time: 1591016530.121447
+1591016530.121541977	>>>Queue Stats: inserted=3243301 items_in_queue=543301 extracted=2700000
+1591016530.535518885	Reached 2800000 ; States-in-collection: 3274495 ; Time: 1591016530.535459
+1591016530.535546064	>>>Queue Stats: inserted=3274495 items_in_queue=474495 extracted=2800000
+1591016531.043731928	Reached 2900000 ; States-in-collection: 3311697 ; Time: 1591016531.043674
+1591016531.043775082	>>>Queue Stats: inserted=3311697 items_in_queue=411697 extracted=2900000
+1591016531.598141909	Reached 3000000 ; States-in-collection: 3357859 ; Time: 1591016531.598080
+1591016531.598166943	>>>Queue Stats: inserted=3357859 items_in_queue=357859 extracted=3000000
+1591016532.094625950	Reached 3100000 ; States-in-collection: 3396775 ; Time: 1591016532.094555
+1591016532.094650984	>>>Queue Stats: inserted=3396775 items_in_queue=296775 extracted=3100000
+1591016532.483942032	Reached 3200000 ; States-in-collection: 3429202 ; Time: 1591016532.483880
+1591016532.483969927	>>>Queue Stats: inserted=3429202 items_in_queue=229202 extracted=3200000
+1591016533.347529888	Reached 3300000 ; States-in-collection: 3788946 ; Time: 1591016533.347466
+1591016533.347557068	>>>Queue Stats: inserted=3788946 items_in_queue=488946 extracted=3300000
+1591016533.923043966	Reached 3400000 ; States-in-collection: 3934777 ; Time: 1591016533.922978
+1591016533.923072100	>>>Queue Stats: inserted=3934777 items_in_queue=534777 extracted=3400000
+1591016534.625432968	Reached 3500000 ; States-in-collection: 4133390 ; Time: 1591016534.625374
+1591016534.625459909	>>>Queue Stats: inserted=4133390 items_in_queue=633390 extracted=3500000
+1591016535.363291025	Reached 3600000 ; States-in-collection: 4344489 ; Time: 1591016535.363226
+1591016535.363320112	>>>Queue Stats: inserted=4344489 items_in_queue=744489 extracted=3600000
+1591016536.016072989	Reached 3700000 ; States-in-collection: 4479744 ; Time: 1591016536.016011
+1591016536.016100883	>>>Queue Stats: inserted=4479744 items_in_queue=779744 extracted=3700000
+1591016536.564771891	Reached 3800000 ; States-in-collection: 4582285 ; Time: 1591016536.564709
+1591016536.564800978	>>>Queue Stats: inserted=4582285 items_in_queue=782285 extracted=3800000
+1591016536.786333084	instance_run_solver_thread end
+1591016536.786360979	Finished running threads for curr_depth=28
+1591016536.786364079	Start mark-and-sweep cleanup for curr_depth=28
+1591016536.927439928	Mark+Sweep Progress - 100000/1175688
+1591016536.927469969	Mark+Sweep Progress - 200000/1175688
+1591016536.927474022	Mark+Sweep Progress - 300000/1175688
+1591016536.927476883	Mark+Sweep Progress - 400000/1175688
+1591016536.927479982	Mark+Sweep Progress - 500000/1175688
+1591016536.927483082	Mark+Sweep Progress - 600000/1175688
+1591016536.927485943	Mark+Sweep Progress - 700000/1175688
+1591016536.927489042	Mark+Sweep Progress - 800000/1175688
+1591016536.927491903	Mark+Sweep Progress - 900000/1175688
+1591016536.927495003	Mark+Sweep Progress - 1000000/1175688
+1591016536.927498102	Mark+Sweep Progress - 1100000/1175688
+1591016536.927500963	Finish mark-and-sweep cleanup for curr_depth=28
+1591016536.927504063	Running threads for curr_depth=29
+1591016536.927508116	instance_run_solver_thread start
+1591016537.129772902	Reached 3900000 ; States-in-collection: 4661273 ; Time: 1591016537.129709
+1591016537.129801035	>>>Queue Stats: inserted=4661273 items_in_queue=761273 extracted=3900000
+1591016537.618134975	Reached 4000000 ; States-in-collection: 4763621 ; Time: 1591016537.618065
+1591016537.618163109	>>>Queue Stats: inserted=4763621 items_in_queue=763621 extracted=4000000
+1591016538.164022923	Reached 4100000 ; States-in-collection: 4867321 ; Time: 1591016538.163962
+1591016538.164051056	>>>Queue Stats: inserted=4867321 items_in_queue=767321 extracted=4100000
+1591016538.847940922	Reached 4200000 ; States-in-collection: 4978993 ; Time: 1591016538.847881
+1591016538.847969055	>>>Queue Stats: inserted=4978993 items_in_queue=778993 extracted=4200000
+1591016539.437980890	Reached 4300000 ; States-in-collection: 5080613 ; Time: 1591016539.437942
+1591016539.438009024	>>>Queue Stats: inserted=5080613 items_in_queue=780613 extracted=4300000
+1591016540.184971094	Reached 4400000 ; States-in-collection: 5227736 ; Time: 1591016540.184903
+1591016540.184997082	>>>Queue Stats: inserted=5227736 items_in_queue=827736 extracted=4400000
+1591016540.788180113	Reached 4500000 ; States-in-collection: 5338786 ; Time: 1591016540.788101
+1591016540.788207054	>>>Queue Stats: inserted=5338786 items_in_queue=838786 extracted=4500000
+1591016541.645596027	Reached 4600000 ; States-in-collection: 5602781 ; Time: 1591016541.645528
+1591016541.645622015	>>>Queue Stats: inserted=5602781 items_in_queue=1002781 extracted=4600000
+1591016542.262789011	Reached 4700000 ; States-in-collection: 5704866 ; Time: 1591016542.262730
+1591016542.262818098	>>>Queue Stats: inserted=5704866 items_in_queue=1004866 extracted=4700000
+1591016543.174876928	Reached 4800000 ; States-in-collection: 5943672 ; Time: 1591016543.174813
+1591016543.174904108	>>>Queue Stats: inserted=5943672 items_in_queue=1143672 extracted=4800000
+1591016544.809155941	Reached 4900000 ; States-in-collection: 6352076 ; Time: 1591016544.809097
+1591016544.809180975	>>>Queue Stats: inserted=6352076 items_in_queue=1452076 extracted=4900000
+1591016546.416819096	Reached 5000000 ; States-in-collection: 6717834 ; Time: 1591016546.416748
+1591016546.416846037	>>>Queue Stats: inserted=6717834 items_in_queue=1717834 extracted=5000000
+1591016547.696213961	Reached 5100000 ; States-in-collection: 7126135 ; Time: 1591016547.696164
+1591016547.696238041	>>>Queue Stats: inserted=7126135 items_in_queue=2026135 extracted=5100000
+1591016548.384789944	Reached 5200000 ; States-in-collection: 7232201 ; Time: 1591016548.384728
+1591016548.384816885	>>>Queue Stats: inserted=7232201 items_in_queue=2032201 extracted=5200000
+1591016548.956362963	Reached 5300000 ; States-in-collection: 7267437 ; Time: 1591016548.956291
+1591016548.956391096	>>>Queue Stats: inserted=7267437 items_in_queue=1967437 extracted=5300000
+1591016549.592566967	Reached 5400000 ; States-in-collection: 7315095 ; Time: 1591016549.592494
+1591016549.592623949	>>>Queue Stats: inserted=7315095 items_in_queue=1915095 extracted=5400000
+1591016550.204185009	Reached 5500000 ; States-in-collection: 7356486 ; Time: 1591016550.204113
+1591016550.204212904	>>>Queue Stats: inserted=7356486 items_in_queue=1856486 extracted=5500000
+1591016550.825700045	Reached 5600000 ; States-in-collection: 7393583 ; Time: 1591016550.825637
+1591016550.825726986	>>>Queue Stats: inserted=7393583 items_in_queue=1793583 extracted=5600000
+1591016551.432265997	Reached 5700000 ; States-in-collection: 7424113 ; Time: 1591016551.432202
+1591016551.432293892	>>>Queue Stats: inserted=7424113 items_in_queue=1724113 extracted=5700000
+1591016552.001532078	Reached 5800000 ; States-in-collection: 7461333 ; Time: 1591016552.001466
+1591016552.001559973	>>>Queue Stats: inserted=7461333 items_in_queue=1661333 extracted=5800000
+1591016552.570439100	Reached 5900000 ; States-in-collection: 7503912 ; Time: 1591016552.570370
+1591016552.570466042	>>>Queue Stats: inserted=7503912 items_in_queue=1603912 extracted=5900000
+1591016553.130197048	Reached 6000000 ; States-in-collection: 7545126 ; Time: 1591016553.130131
+1591016553.130223036	>>>Queue Stats: inserted=7545126 items_in_queue=1545126 extracted=6000000
+1591016553.879525900	Reached 6100000 ; States-in-collection: 7728037 ; Time: 1591016553.879440
+1591016553.879570007	>>>Queue Stats: inserted=7728037 items_in_queue=1628037 extracted=6100000
+1591016554.834605932	Reached 6200000 ; States-in-collection: 7979061 ; Time: 1591016554.834544
+1591016554.834631920	>>>Queue Stats: inserted=7979061 items_in_queue=1779061 extracted=6200000
+1591016555.646933079	Reached 6300000 ; States-in-collection: 8156180 ; Time: 1591016555.646874
+1591016555.646960020	>>>Queue Stats: inserted=8156180 items_in_queue=1856180 extracted=6300000
+1591016555.808621883	instance_run_solver_thread end
+1591016555.808651924	Finished running threads for curr_depth=29
+1591016555.808655024	Start mark-and-sweep cleanup for curr_depth=29
+1591016556.061887026	Mark+Sweep Progress - 100000/2480384
+1591016556.061916113	Mark+Sweep Progress - 200000/2480384
+1591016556.061920881	Mark+Sweep Progress - 300000/2480384
+1591016556.061923981	Mark+Sweep Progress - 400000/2480384
+1591016556.061927080	Mark+Sweep Progress - 500000/2480384
+1591016556.061930895	Mark+Sweep Progress - 600000/2480384
+1591016556.061933994	Mark+Sweep Progress - 700000/2480384
+1591016556.061937094	Mark+Sweep Progress - 800000/2480384
+1591016556.061939955	Mark+Sweep Progress - 900000/2480384
+1591016556.061944008	Mark+Sweep Progress - 1000000/2480384
+1591016556.061948061	Mark+Sweep Progress - 1100000/2480384
+1591016556.061950922	Mark+Sweep Progress - 1200000/2480384
+1591016556.061954021	Mark+Sweep Progress - 1300000/2480384
+1591016556.061956882	Mark+Sweep Progress - 1400000/2480384
+1591016556.061960936	Mark+Sweep Progress - 1500000/2480384
+1591016556.061964035	Mark+Sweep Progress - 1600000/2480384
+1591016556.061966896	Mark+Sweep Progress - 1700000/2480384
+1591016556.061969995	Mark+Sweep Progress - 1800000/2480384
+1591016556.061973095	Mark+Sweep Progress - 1900000/2480384
+1591016556.061975956	Mark+Sweep Progress - 2000000/2480384
+1591016556.061980009	Mark+Sweep Progress - 2100000/2480384
+1591016556.061983109	Mark+Sweep Progress - 2200000/2480384
+1591016556.061985970	Mark+Sweep Progress - 2300000/2480384
+1591016556.061989069	Mark+Sweep Progress - 2400000/2480384
+1591016556.061992884	Finish mark-and-sweep cleanup for curr_depth=29
+1591016556.061995983	Running threads for curr_depth=30
+1591016556.061999083	instance_run_solver_thread start
+1591016556.410552979	Reached 6400000 ; States-in-collection: 8225425 ; Time: 1591016556.410485
+1591016556.410604954	>>>Queue Stats: inserted=8225425 items_in_queue=1825425 extracted=6400000
+1591016556.944878101	Reached 6500000 ; States-in-collection: 8279095 ; Time: 1591016556.944807
+1591016556.944904089	>>>Queue Stats: inserted=8279095 items_in_queue=1779095 extracted=6500000
+1591016557.429805994	Reached 6600000 ; States-in-collection: 8322363 ; Time: 1591016557.429747
+1591016557.429832935	>>>Queue Stats: inserted=8322363 items_in_queue=1722363 extracted=6600000
+1591016558.032061100	Reached 6700000 ; States-in-collection: 8376212 ; Time: 1591016558.031999
+1591016558.032085896	>>>Queue Stats: inserted=8376212 items_in_queue=1676212 extracted=6700000
+1591016558.517721891	Reached 6800000 ; States-in-collection: 8418429 ; Time: 1591016558.517655
+1591016558.517750978	>>>Queue Stats: inserted=8418429 items_in_queue=1618429 extracted=6800000
+1591016559.094497919	Reached 6900000 ; States-in-collection: 8499027 ; Time: 1591016559.094428
+1591016559.094587088	>>>Queue Stats: inserted=8499027 items_in_queue=1599027 extracted=6900000
+1591016559.935305119	Reached 7000000 ; States-in-collection: 8637249 ; Time: 1591016559.935240
+1591016559.935331106	>>>Queue Stats: inserted=8637249 items_in_queue=1637249 extracted=7000000
+1591016560.872925043	Reached 7100000 ; States-in-collection: 8715856 ; Time: 1591016560.872862
+1591016560.872951984	>>>Queue Stats: inserted=8715856 items_in_queue=1615856 extracted=7100000
+1591016561.845603943	Reached 7200000 ; States-in-collection: 8800675 ; Time: 1591016561.845548
+1591016561.845629930	>>>Queue Stats: inserted=8800675 items_in_queue=1600675 extracted=7200000
+1591016562.683767080	Reached 7300000 ; States-in-collection: 8888560 ; Time: 1591016562.683701
+1591016562.683794022	>>>Queue Stats: inserted=8888560 items_in_queue=1588560 extracted=7300000
+1591016563.661509991	Reached 7400000 ; States-in-collection: 9033141 ; Time: 1591016563.661434
+1591016563.661536932	>>>Queue Stats: inserted=9033141 items_in_queue=1633141 extracted=7400000
+1591016564.329241037	Reached 7500000 ; States-in-collection: 9153818 ; Time: 1591016564.329176
+1591016564.329267979	>>>Queue Stats: inserted=9153818 items_in_queue=1653818 extracted=7500000
+1591016564.901777029	Reached 7600000 ; States-in-collection: 9268765 ; Time: 1591016564.901715
+1591016564.901803970	>>>Queue Stats: inserted=9268765 items_in_queue=1668765 extracted=7600000
+1591016565.464380980	Reached 7700000 ; States-in-collection: 9400399 ; Time: 1591016565.464311
+1591016565.464409113	>>>Queue Stats: inserted=9400399 items_in_queue=1700399 extracted=7700000
+1591016566.017210007	Reached 7800000 ; States-in-collection: 9509476 ; Time: 1591016566.017145
+1591016566.017267942	>>>Queue Stats: inserted=9509476 items_in_queue=1709476 extracted=7800000
+1591016566.639636993	Reached 7900000 ; States-in-collection: 9586773 ; Time: 1591016566.639562
+1591016566.639663935	>>>Queue Stats: inserted=9586773 items_in_queue=1686773 extracted=7900000
+1591016567.453907967	Reached 8000000 ; States-in-collection: 9670357 ; Time: 1591016567.453848
+1591016567.453932047	>>>Queue Stats: inserted=9670357 items_in_queue=1670357 extracted=8000000
+1591016568.149557114	Reached 8100000 ; States-in-collection: 9730259 ; Time: 1591016568.149502
+1591016568.149604082	>>>Queue Stats: inserted=9730259 items_in_queue=1630259 extracted=8100000
+1591016568.799699068	Reached 8200000 ; States-in-collection: 9814613 ; Time: 1591016568.799644
+1591016568.799724102	>>>Queue Stats: inserted=9814613 items_in_queue=1614613 extracted=8200000
+1591016570.401262999	Reached 8300000 ; States-in-collection: 10013739 ; Time: 1591016570.401204
+1591016570.401287079	>>>Queue Stats: inserted=10013739 items_in_queue=1713739 extracted=8300000
+1591016571.454896927	Reached 8400000 ; States-in-collection: 10226043 ; Time: 1591016571.454833
+1591016571.454921961	>>>Queue Stats: inserted=10226043 items_in_queue=1826043 extracted=8400000
+1591016572.063079119	Reached 8500000 ; States-in-collection: 10254260 ; Time: 1591016572.063022
+1591016572.063103914	>>>Queue Stats: inserted=10254260 items_in_queue=1754260 extracted=8500000
+1591016572.631100893	Reached 8600000 ; States-in-collection: 10284783 ; Time: 1591016572.631034
+1591016572.631127119	>>>Queue Stats: inserted=10284783 items_in_queue=1684783 extracted=8600000
+1591016573.209897041	Reached 8700000 ; States-in-collection: 10333020 ; Time: 1591016573.209840
+1591016573.209922075	>>>Queue Stats: inserted=10333020 items_in_queue=1633020 extracted=8700000
+1591016573.849701881	Reached 8800000 ; States-in-collection: 10458011 ; Time: 1591016573.849637
+1591016573.849726915	>>>Queue Stats: inserted=10458011 items_in_queue=1658011 extracted=8800000
+1591016574.593668938	Reached 8900000 ; States-in-collection: 10679867 ; Time: 1591016574.593599
+1591016574.593693972	>>>Queue Stats: inserted=10679867 items_in_queue=1779867 extracted=8900000
+1591016575.435678005	Reached 9000000 ; States-in-collection: 10909826 ; Time: 1591016575.435613
+1591016575.435702085	>>>Queue Stats: inserted=10909826 items_in_queue=1909826 extracted=9000000
+1591016576.066251040	Reached 9100000 ; States-in-collection: 11056154 ; Time: 1591016576.066198
+1591016576.066276073	>>>Queue Stats: inserted=11056154 items_in_queue=1956154 extracted=9100000
+1591016576.537646055	Reached 9200000 ; States-in-collection: 11109455 ; Time: 1591016576.537592
+1591016576.537672043	>>>Queue Stats: inserted=11109455 items_in_queue=1909455 extracted=9200000
+1591016577.073224068	Reached 9300000 ; States-in-collection: 11170877 ; Time: 1591016577.073166
+1591016577.073249102	>>>Queue Stats: inserted=11170877 items_in_queue=1870877 extracted=9300000
+1591016577.619426012	Reached 9400000 ; States-in-collection: 11235040 ; Time: 1591016577.619368
+1591016577.619452000	>>>Queue Stats: inserted=11235040 items_in_queue=1835040 extracted=9400000
+1591016578.269685984	Reached 9500000 ; States-in-collection: 11338270 ; Time: 1591016578.269633
+1591016578.269711018	>>>Queue Stats: inserted=11338270 items_in_queue=1838270 extracted=9500000
+1591016578.808182001	Reached 9600000 ; States-in-collection: 11394099 ; Time: 1591016578.808127
+1591016578.808207035	>>>Queue Stats: inserted=11394099 items_in_queue=1794099 extracted=9600000
+1591016579.397897005	Reached 9700000 ; States-in-collection: 11455137 ; Time: 1591016579.397842
+1591016579.397922993	>>>Queue Stats: inserted=11455137 items_in_queue=1755137 extracted=9700000
+1591016580.111366987	Reached 9800000 ; States-in-collection: 11582826 ; Time: 1591016580.111309
+1591016580.111391068	>>>Queue Stats: inserted=11582826 items_in_queue=1782826 extracted=9800000
+1591016580.807107925	Reached 9900000 ; States-in-collection: 11748686 ; Time: 1591016580.807050
+1591016580.807132959	>>>Queue Stats: inserted=11748686 items_in_queue=1848686 extracted=9900000
+1591016581.497682095	Reached 10000000 ; States-in-collection: 11906455 ; Time: 1591016581.497627
+1591016581.497705936	>>>Queue Stats: inserted=11906455 items_in_queue=1906455 extracted=10000000
+1591016582.078680038	Reached 10100000 ; States-in-collection: 12005592 ; Time: 1591016582.078620
+1591016582.078704119	>>>Queue Stats: inserted=12005592 items_in_queue=1905592 extracted=10100000
+1591016582.703466892	Reached 10200000 ; States-in-collection: 12126140 ; Time: 1591016582.703419
+1591016582.703505993	>>>Queue Stats: inserted=12126140 items_in_queue=1926140 extracted=10200000
+1591016583.286089897	Reached 10300000 ; States-in-collection: 12203957 ; Time: 1591016583.286035
+1591016583.286114931	>>>Queue Stats: inserted=12203957 items_in_queue=1903957 extracted=10300000
+1591016583.923460960	Reached 10400000 ; States-in-collection: 12318467 ; Time: 1591016583.923384
+1591016583.923486948	>>>Queue Stats: inserted=12318467 items_in_queue=1918467 extracted=10400000
+1591016584.617419958	Reached 10500000 ; States-in-collection: 12469429 ; Time: 1591016584.617359
+1591016584.617446899	>>>Queue Stats: inserted=12469429 items_in_queue=1969429 extracted=10500000
+1591016585.329251051	Reached 10600000 ; States-in-collection: 12656071 ; Time: 1591016585.329190
+1591016585.329276085	>>>Queue Stats: inserted=12656071 items_in_queue=2056071 extracted=10600000
+1591016586.050065994	Reached 10700000 ; States-in-collection: 12848688 ; Time: 1591016586.050007
+1591016586.050091982	>>>Queue Stats: inserted=12848688 items_in_queue=2148688 extracted=10700000
+1591016586.602739096	Reached 10800000 ; States-in-collection: 12955803 ; Time: 1591016586.602685
+1591016586.602766037	>>>Queue Stats: inserted=12955803 items_in_queue=2155803 extracted=10800000
+1591016587.116916895	Reached 10900000 ; States-in-collection: 13041199 ; Time: 1591016587.116863
+1591016587.116941929	>>>Queue Stats: inserted=13041199 items_in_queue=2141199 extracted=10900000
+1591016587.690098047	Reached 11000000 ; States-in-collection: 13139970 ; Time: 1591016587.690040
+1591016587.690121889	>>>Queue Stats: inserted=13139970 items_in_queue=2139970 extracted=11000000
+1591016588.237238884	Reached 11100000 ; States-in-collection: 13216525 ; Time: 1591016588.237183
+1591016588.237265110	>>>Queue Stats: inserted=13216525 items_in_queue=2116525 extracted=11100000
+1591016588.862787962	Reached 11200000 ; States-in-collection: 13326811 ; Time: 1591016588.862734
+1591016588.862812042	>>>Queue Stats: inserted=13326811 items_in_queue=2126811 extracted=11200000
+1591016589.509933949	Reached 11300000 ; States-in-collection: 13487193 ; Time: 1591016589.509877
+1591016589.509960890	>>>Queue Stats: inserted=13487193 items_in_queue=2187193 extracted=11300000
+1591016590.097832918	Reached 11400000 ; States-in-collection: 13607845 ; Time: 1591016590.097778
+1591016590.097856998	>>>Queue Stats: inserted=13607845 items_in_queue=2207845 extracted=11400000
+1591016590.464766979	instance_run_solver_thread end
+1591016590.464792013	Finished running threads for curr_depth=30
+1591016590.464796066	Start mark-and-sweep cleanup for curr_depth=30
+1591016591.087065935	Mark+Sweep Progress - 100000/5144320
+1591016591.087095022	Mark+Sweep Progress - 200000/5144320
+1591016591.087099075	Mark+Sweep Progress - 300000/5144320
+1591016591.087101936	Mark+Sweep Progress - 400000/5144320
+1591016591.087105036	Mark+Sweep Progress - 500000/5144320
+1591016591.087109089	Mark+Sweep Progress - 600000/5144320
+1591016591.087112904	Mark+Sweep Progress - 700000/5144320
+1591016591.087116957	Mark+Sweep Progress - 800000/5144320
+1591016591.087121010	Mark+Sweep Progress - 900000/5144320
+1591016591.087126017	Mark+Sweep Progress - 1000000/5144320
+1591016591.087130070	Mark+Sweep Progress - 1100000/5144320
+1591016591.087133884	Mark+Sweep Progress - 1200000/5144320
+1591016591.087138891	Mark+Sweep Progress - 1300000/5144320
+1591016591.087142944	Mark+Sweep Progress - 1400000/5144320
+1591016591.087147951	Mark+Sweep Progress - 1500000/5144320
+1591016591.087152958	Mark+Sweep Progress - 1600000/5144320
+1591016591.087157965	Mark+Sweep Progress - 1700000/5144320
+1591016591.087161064	Mark+Sweep Progress - 1800000/5144320
+1591016591.087163925	Mark+Sweep Progress - 1900000/5144320
+1591016591.087167025	Mark+Sweep Progress - 2000000/5144320
+1591016591.087169886	Mark+Sweep Progress - 2100000/5144320
+1591016591.087173939	Mark+Sweep Progress - 2200000/5144320
+1591016591.087177992	Mark+Sweep Progress - 2300000/5144320
+1591016591.087182045	Mark+Sweep Progress - 2400000/5144320
+1591016591.087188005	Mark+Sweep Progress - 2500000/5144320
+1591016591.087191105	Mark+Sweep Progress - 2600000/5144320
+1591016591.087193966	Mark+Sweep Progress - 2700000/5144320
+1591016591.087198019	Mark+Sweep Progress - 2800000/5144320
+1591016591.087202072	Mark+Sweep Progress - 2900000/5144320
+1591016591.087205887	Mark+Sweep Progress - 3000000/5144320
+1591016591.087212086	Mark+Sweep Progress - 3100000/5144320
+1591016591.087215900	Mark+Sweep Progress - 3200000/5144320
+1591016591.087219954	Mark+Sweep Progress - 3300000/5144320
+1591016591.087222099	Mark+Sweep Progress - 3400000/5144320
+1591016591.087224960	Mark+Sweep Progress - 3500000/5144320
+1591016591.087228060	Mark+Sweep Progress - 3600000/5144320
+1591016591.087232113	Mark+Sweep Progress - 3700000/5144320
+1591016591.087235928	Mark+Sweep Progress - 3800000/5144320
+1591016591.087240934	Mark+Sweep Progress - 3900000/5144320
+1591016591.087244987	Mark+Sweep Progress - 4000000/5144320
+1591016591.087249041	Mark+Sweep Progress - 4100000/5144320
+1591016591.087254047	Mark+Sweep Progress - 4200000/5144320
+1591016591.087258101	Mark+Sweep Progress - 4300000/5144320
+1591016591.087261915	Mark+Sweep Progress - 4400000/5144320
+1591016591.087265015	Mark+Sweep Progress - 4500000/5144320
+1591016591.087269068	Mark+Sweep Progress - 4600000/5144320
+1591016591.087272882	Mark+Sweep Progress - 4700000/5144320
+1591016591.087276936	Mark+Sweep Progress - 4800000/5144320
+1591016591.087280989	Mark+Sweep Progress - 4900000/5144320
+1591016591.087285995	Mark+Sweep Progress - 5000000/5144320
+1591016591.087290049	Mark+Sweep Progress - 5100000/5144320
+1591016591.087294102	Finish mark-and-sweep cleanup for curr_depth=30
+1591016591.087299109	Running threads for curr_depth=31
+1591016591.087302923	instance_run_solver_thread start
+1591016591.233174086	Reached 11500000 ; States-in-collection: 13683493 ; Time: 1591016591.233108
+1591016591.233200073	>>>Queue Stats: inserted=13683493 items_in_queue=2183493 extracted=11500000
+1591016591.657253981	Reached 11600000 ; States-in-collection: 13730481 ; Time: 1591016591.657203
+1591016591.657279015	>>>Queue Stats: inserted=13730481 items_in_queue=2130481 extracted=11600000
+1591016592.151047945	Reached 11700000 ; States-in-collection: 13794423 ; Time: 1591016592.150981
+1591016592.151072979	>>>Queue Stats: inserted=13794423 items_in_queue=2094423 extracted=11700000
+1591016592.944411993	Reached 11800000 ; States-in-collection: 13857573 ; Time: 1591016592.944348
+1591016592.944437027	>>>Queue Stats: inserted=13857573 items_in_queue=2057573 extracted=11800000
+1591016593.678505898	Reached 11900000 ; States-in-collection: 13960939 ; Time: 1591016593.678450
+1591016593.678530931	>>>Queue Stats: inserted=13960939 items_in_queue=2060939 extracted=11900000
+1591016594.307936907	Reached 12000000 ; States-in-collection: 14021837 ; Time: 1591016594.307881
+1591016594.307964087	>>>Queue Stats: inserted=14021837 items_in_queue=2021837 extracted=12000000
+1591016594.960504055	Reached 12100000 ; States-in-collection: 14051115 ; Time: 1591016594.960444
+1591016594.960529089	>>>Queue Stats: inserted=14051115 items_in_queue=1951115 extracted=12100000
+1591016595.544153929	Reached 12200000 ; States-in-collection: 14086285 ; Time: 1591016595.544095
+1591016595.544181108	>>>Queue Stats: inserted=14086285 items_in_queue=1886285 extracted=12200000
+1591016596.053220987	Reached 12300000 ; States-in-collection: 14145783 ; Time: 1591016596.053166
+1591016596.053246021	>>>Queue Stats: inserted=14145783 items_in_queue=1845783 extracted=12300000
+1591016596.490561008	Reached 12400000 ; States-in-collection: 14159607 ; Time: 1591016596.490503
+1591016596.490611076	>>>Queue Stats: inserted=14159607 items_in_queue=1759607 extracted=12400000
+1591016597.011305094	Reached 12500000 ; States-in-collection: 14196517 ; Time: 1591016597.011239
+1591016597.011328936	>>>Queue Stats: inserted=14196517 items_in_queue=1696517 extracted=12500000
+1591016597.600528955	Reached 12600000 ; States-in-collection: 14279327 ; Time: 1591016597.600474
+1591016597.600554943	>>>Queue Stats: inserted=14279327 items_in_queue=1679327 extracted=12600000
+1591016598.349224091	Reached 12700000 ; States-in-collection: 14394973 ; Time: 1591016598.349159
+1591016598.349248886	>>>Queue Stats: inserted=14394973 items_in_queue=1694973 extracted=12700000
+1591016598.913099051	Reached 12800000 ; States-in-collection: 14484397 ; Time: 1591016598.913040
+1591016598.913122892	>>>Queue Stats: inserted=14484397 items_in_queue=1684397 extracted=12800000
+1591016599.552217960	Reached 12900000 ; States-in-collection: 14565669 ; Time: 1591016599.552158
+1591016599.552242994	>>>Queue Stats: inserted=14565669 items_in_queue=1665669 extracted=12900000
+1591016600.242230892	Reached 13000000 ; States-in-collection: 14658840 ; Time: 1591016600.242171
+1591016600.242254972	>>>Queue Stats: inserted=14658840 items_in_queue=1658840 extracted=13000000
+1591016600.895713091	Reached 13100000 ; States-in-collection: 14764325 ; Time: 1591016600.895648
+1591016600.895737886	>>>Queue Stats: inserted=14764325 items_in_queue=1664325 extracted=13100000
+1591016601.411412954	Reached 13200000 ; States-in-collection: 14811429 ; Time: 1591016601.411358
+1591016601.411437988	>>>Queue Stats: inserted=14811429 items_in_queue=1611429 extracted=13200000
+1591016602.096270084	Reached 13300000 ; States-in-collection: 14828105 ; Time: 1591016602.096211
+1591016602.096293926	>>>Queue Stats: inserted=14828105 items_in_queue=1528105 extracted=13300000
+1591016602.800805092	Reached 13400000 ; States-in-collection: 14842661 ; Time: 1591016602.800739
+1591016602.800829887	>>>Queue Stats: inserted=14842661 items_in_queue=1442661 extracted=13400000
+1591016603.346594095	Reached 13500000 ; States-in-collection: 14850341 ; Time: 1591016603.346532
+1591016603.346618891	>>>Queue Stats: inserted=14850341 items_in_queue=1350341 extracted=13500000
+1591016604.096986055	Reached 13600000 ; States-in-collection: 14872511 ; Time: 1591016604.096931
+1591016604.097011089	>>>Queue Stats: inserted=14872511 items_in_queue=1272511 extracted=13600000
+1591016604.764688969	Reached 13700000 ; States-in-collection: 14883621 ; Time: 1591016604.764588
+1591016604.764713049	>>>Queue Stats: inserted=14883621 items_in_queue=1183621 extracted=13700000
+1591016605.447979927	Reached 13800000 ; States-in-collection: 15022420 ; Time: 1591016605.447924
+1591016605.448004961	>>>Queue Stats: inserted=15022420 items_in_queue=1222420 extracted=13800000
+1591016606.213300943	Reached 13900000 ; States-in-collection: 15232049 ; Time: 1591016606.213246
+1591016606.213325024	>>>Queue Stats: inserted=15232049 items_in_queue=1332049 extracted=13900000
+1591016607.400116920	Reached 14000000 ; States-in-collection: 15572762 ; Time: 1591016607.400056
+1591016607.400141001	>>>Queue Stats: inserted=15572762 items_in_queue=1572762 extracted=14000000
+1591016608.227194071	Reached 14100000 ; States-in-collection: 15726419 ; Time: 1591016608.227139
+1591016608.227220058	>>>Queue Stats: inserted=15726419 items_in_queue=1626419 extracted=14100000
+1591016609.001149893	Reached 14200000 ; States-in-collection: 15832275 ; Time: 1591016609.001090
+1591016609.001174927	>>>Queue Stats: inserted=15832275 items_in_queue=1632275 extracted=14200000
+1591016609.746790886	Reached 14300000 ; States-in-collection: 15966437 ; Time: 1591016609.746731
+1591016609.746818066	>>>Queue Stats: inserted=15966437 items_in_queue=1666437 extracted=14300000
+1591016610.351969004	Reached 14400000 ; States-in-collection: 16020775 ; Time: 1591016610.351893
+1591016610.352011919	>>>Queue Stats: inserted=16020775 items_in_queue=1620775 extracted=14400000
+1591016611.154987097	Reached 14500000 ; States-in-collection: 16168554 ; Time: 1591016611.154924
+1591016611.155013084	>>>Queue Stats: inserted=16168554 items_in_queue=1668554 extracted=14500000
+1591016612.030636072	Reached 14600000 ; States-in-collection: 16316532 ; Time: 1591016612.030583
+1591016612.030674934	>>>Queue Stats: inserted=16316532 items_in_queue=1716532 extracted=14600000
+1591016612.798772097	Reached 14700000 ; States-in-collection: 16459007 ; Time: 1591016612.798713
+1591016612.798795938	>>>Queue Stats: inserted=16459007 items_in_queue=1759007 extracted=14700000
+1591016613.499612093	Reached 14800000 ; States-in-collection: 16545710 ; Time: 1591016613.499507
+1591016613.499664068	>>>Queue Stats: inserted=16545710 items_in_queue=1745710 extracted=14800000
+1591016614.109425068	Reached 14900000 ; States-in-collection: 16606956 ; Time: 1591016614.109368
+1591016614.109451056	>>>Queue Stats: inserted=16606956 items_in_queue=1706956 extracted=14900000
+1591016614.805414915	Reached 15000000 ; States-in-collection: 16696427 ; Time: 1591016614.805359
+1591016614.805439949	>>>Queue Stats: inserted=16696427 items_in_queue=1696427 extracted=15000000
+1591016615.417726994	Reached 15100000 ; States-in-collection: 16763506 ; Time: 1591016615.417672
+1591016615.417751074	>>>Queue Stats: inserted=16763506 items_in_queue=1663506 extracted=15100000
+1591016616.258846045	Reached 15200000 ; States-in-collection: 16912677 ; Time: 1591016616.258781
+1591016616.258872032	>>>Queue Stats: inserted=16912677 items_in_queue=1712677 extracted=15200000
+1591016616.964019060	Reached 15300000 ; States-in-collection: 17013541 ; Time: 1591016616.963959
+1591016616.964044094	>>>Queue Stats: inserted=17013541 items_in_queue=1713541 extracted=15300000
+1591016617.664721966	Reached 15400000 ; States-in-collection: 17111480 ; Time: 1591016617.664666
+1591016617.664748907	>>>Queue Stats: inserted=17111480 items_in_queue=1711480 extracted=15400000
+1591016618.357131958	Reached 15500000 ; States-in-collection: 17211831 ; Time: 1591016618.357075
+1591016618.357156992	>>>Queue Stats: inserted=17211831 items_in_queue=1711831 extracted=15500000
+1591016618.815557957	instance_run_solver_thread end
+1591016618.815606117	Finished running threads for curr_depth=31
+1591016618.815609932	Start mark-and-sweep cleanup for curr_depth=31
+1591016619.612598896	Mark+Sweep Progress - 100000/4125184
+1591016619.612631083	Mark+Sweep Progress - 200000/4125184
+1591016619.612636089	Mark+Sweep Progress - 300000/4125184
+1591016619.612638950	Mark+Sweep Progress - 400000/4125184
+1591016619.612642050	Mark+Sweep Progress - 500000/4125184
+1591016619.612644911	Mark+Sweep Progress - 600000/4125184
+1591016619.612649918	Mark+Sweep Progress - 700000/4125184
+1591016619.612653971	Mark+Sweep Progress - 800000/4125184
+1591016619.612658978	Mark+Sweep Progress - 900000/4125184
+1591016619.612663984	Mark+Sweep Progress - 1000000/4125184
+1591016619.612668991	Mark+Sweep Progress - 1100000/4125184
+1591016619.612673998	Mark+Sweep Progress - 1200000/4125184
+1591016619.612679005	Mark+Sweep Progress - 1300000/4125184
+1591016619.612684965	Mark+Sweep Progress - 1400000/4125184
+1591016619.612689018	Mark+Sweep Progress - 1500000/4125184
+1591016619.612694025	Mark+Sweep Progress - 1600000/4125184
+1591016619.612699032	Mark+Sweep Progress - 1700000/4125184
+1591016619.612704992	Mark+Sweep Progress - 1800000/4125184
+1591016619.612708092	Mark+Sweep Progress - 1900000/4125184
+1591016619.612711906	Mark+Sweep Progress - 2000000/4125184
+1591016619.612715006	Mark+Sweep Progress - 2100000/4125184
+1591016619.612718105	Mark+Sweep Progress - 2200000/4125184
+1591016619.612720966	Mark+Sweep Progress - 2300000/4125184
+1591016619.612724066	Mark+Sweep Progress - 2400000/4125184
+1591016619.612726927	Mark+Sweep Progress - 2500000/4125184
+1591016619.612730026	Mark+Sweep Progress - 2600000/4125184
+1591016619.612734079	Mark+Sweep Progress - 2700000/4125184
+1591016619.612740040	Mark+Sweep Progress - 2800000/4125184
+1591016619.612744093	Mark+Sweep Progress - 2900000/4125184
+1591016619.612749100	Mark+Sweep Progress - 3000000/4125184
+1591016619.612754107	Mark+Sweep Progress - 3100000/4125184
+1591016619.612757921	Mark+Sweep Progress - 3200000/4125184
+1591016619.612761974	Mark+Sweep Progress - 3300000/4125184
+1591016619.612765074	Mark+Sweep Progress - 3400000/4125184
+1591016619.612767935	Mark+Sweep Progress - 3500000/4125184
+1591016619.612771034	Mark+Sweep Progress - 3600000/4125184
+1591016619.612775087	Mark+Sweep Progress - 3700000/4125184
+1591016619.612780094	Mark+Sweep Progress - 3800000/4125184
+1591016619.612783909	Mark+Sweep Progress - 3900000/4125184
+1591016619.612787962	Mark+Sweep Progress - 4000000/4125184
+1591016619.612792015	Mark+Sweep Progress - 4100000/4125184
+1591016619.612797022	Finish mark-and-sweep cleanup for curr_depth=31
+1591016619.612801075	Running threads for curr_depth=32
+1591016619.612806082	instance_run_solver_thread start
+1591016619.634042025	Reached 15600000 ; States-in-collection: 17259593 ; Time: 1591016619.633987
+1591016619.634063005	>>>Queue Stats: inserted=17259593 items_in_queue=1659593 extracted=15600000
+1591016620.002969027	Reached 15700000 ; States-in-collection: 17274707 ; Time: 1591016620.002903
+1591016620.002994061	>>>Queue Stats: inserted=17274707 items_in_queue=1574707 extracted=15700000
+1591016620.428589106	Reached 15800000 ; States-in-collection: 17297398 ; Time: 1591016620.428520
+1591016620.428634882	>>>Queue Stats: inserted=17297398 items_in_queue=1497398 extracted=15800000
+1591016620.757062912	Reached 15900000 ; States-in-collection: 17304578 ; Time: 1591016620.757001
+1591016620.757091045	>>>Queue Stats: inserted=17304578 items_in_queue=1404578 extracted=15900000
+1591016621.130521059	Reached 16000000 ; States-in-collection: 17313778 ; Time: 1591016621.130458
+1591016621.130549908	>>>Queue Stats: inserted=17313778 items_in_queue=1313778 extracted=16000000
+1591016621.491628885	Reached 16100000 ; States-in-collection: 17325340 ; Time: 1591016621.491567
+1591016621.491657019	>>>Queue Stats: inserted=17325340 items_in_queue=1225340 extracted=16100000
+1591016621.927959919	Reached 16200000 ; States-in-collection: 17377069 ; Time: 1591016621.927894
+1591016621.927989006	>>>Queue Stats: inserted=17377069 items_in_queue=1177069 extracted=16200000
+1591016622.362602949	Reached 16300000 ; States-in-collection: 17457571 ; Time: 1591016622.362548
+1591016622.362632036	>>>Queue Stats: inserted=17457571 items_in_queue=1157571 extracted=16300000
+1591016622.895240068	Reached 16400000 ; States-in-collection: 17498648 ; Time: 1591016622.895175
+1591016622.895266056	>>>Queue Stats: inserted=17498648 items_in_queue=1098648 extracted=16400000
+1591016623.388319016	Reached 16500000 ; States-in-collection: 17529021 ; Time: 1591016623.388255
+1591016623.388348103	>>>Queue Stats: inserted=17529021 items_in_queue=1029021 extracted=16500000
+1591016623.904839993	Reached 16600000 ; States-in-collection: 17600243 ; Time: 1591016623.904775
+1591016623.904866934	>>>Queue Stats: inserted=17600243 items_in_queue=1000243 extracted=16600000
+1591016624.424705029	Reached 16700000 ; States-in-collection: 17724739 ; Time: 1591016624.424642
+1591016624.424734116	>>>Queue Stats: inserted=17724739 items_in_queue=1024739 extracted=16700000
+1591016625.253165007	Reached 16800000 ; States-in-collection: 17871413 ; Time: 1591016625.253102
+1591016625.253192902	>>>Queue Stats: inserted=17871413 items_in_queue=1071413 extracted=16800000
+1591016626.138380051	Reached 16900000 ; States-in-collection: 18013469 ; Time: 1591016626.138317
+1591016626.138407946	>>>Queue Stats: inserted=18013469 items_in_queue=1113469 extracted=16900000
+1591016626.922162056	Reached 17000000 ; States-in-collection: 18131970 ; Time: 1591016626.922100
+1591016626.922189951	>>>Queue Stats: inserted=18131970 items_in_queue=1131970 extracted=17000000
+1591016627.620454073	Reached 17100000 ; States-in-collection: 18237667 ; Time: 1591016627.620379
+1591016627.620484114	>>>Queue Stats: inserted=18237667 items_in_queue=1137667 extracted=17100000
+1591016628.302609921	Reached 17200000 ; States-in-collection: 18350919 ; Time: 1591016628.302517
+1591016628.302637100	>>>Queue Stats: inserted=18350919 items_in_queue=1150919 extracted=17200000
+1591016628.807210922	Reached 17300000 ; States-in-collection: 18420451 ; Time: 1591016628.807152
+1591016628.807240963	>>>Queue Stats: inserted=18420451 items_in_queue=1120451 extracted=17300000
+1591016629.558650017	Reached 17400000 ; States-in-collection: 18563082 ; Time: 1591016629.558583
+1591016629.558681965	>>>Queue Stats: inserted=18563082 items_in_queue=1163082 extracted=17400000
+1591016631.197609901	Reached 17500000 ; States-in-collection: 19215883 ; Time: 1591016631.197514
+1591016631.197671890	>>>Queue Stats: inserted=19215883 items_in_queue=1715883 extracted=17500000
+1591016631.948909044	Reached 17600000 ; States-in-collection: 19314294 ; Time: 1591016631.948846
+1591016631.948936939	>>>Queue Stats: inserted=19314294 items_in_queue=1714294 extracted=17600000
+1591016633.019817114	Reached 17700000 ; States-in-collection: 19607565 ; Time: 1591016633.019748
+1591016633.019845009	>>>Queue Stats: inserted=19607565 items_in_queue=1907565 extracted=17700000
+1591016634.205869913	Reached 17800000 ; States-in-collection: 19924722 ; Time: 1591016634.205811
+1591016634.205894947	>>>Queue Stats: inserted=19924722 items_in_queue=2124722 extracted=17800000
+1591016635.153423071	Reached 17900000 ; States-in-collection: 20232971 ; Time: 1591016635.153364
+1591016635.153450012	>>>Queue Stats: inserted=20232971 items_in_queue=2332971 extracted=17900000
+1591016636.137417078	Reached 18000000 ; States-in-collection: 20495061 ; Time: 1591016636.137359
+1591016636.137443066	>>>Queue Stats: inserted=20495061 items_in_queue=2495061 extracted=18000000
+1591016637.037655115	Reached 18100000 ; States-in-collection: 20698856 ; Time: 1591016637.037600
+1591016637.037678957	>>>Queue Stats: inserted=20698856 items_in_queue=2598856 extracted=18100000
+1591016638.102077007	Reached 18200000 ; States-in-collection: 21006606 ; Time: 1591016638.102017
+1591016638.102102041	>>>Queue Stats: inserted=21006606 items_in_queue=2806606 extracted=18200000
+1591016639.168175936	Reached 18300000 ; States-in-collection: 21256052 ; Time: 1591016639.168122
+1591016639.168200970	>>>Queue Stats: inserted=21256052 items_in_queue=2956052 extracted=18300000
+1591016640.209253073	Reached 18400000 ; States-in-collection: 21487223 ; Time: 1591016640.209195
+1591016640.209279060	>>>Queue Stats: inserted=21487223 items_in_queue=3087223 extracted=18400000
+1591016640.834609985	Reached 18500000 ; States-in-collection: 21609679 ; Time: 1591016640.834552
+1591016640.834635973	>>>Queue Stats: inserted=21609679 items_in_queue=3109679 extracted=18500000
+1591016641.654540062	Reached 18600000 ; States-in-collection: 21778618 ; Time: 1591016641.654492
+1591016641.654567003	>>>Queue Stats: inserted=21778618 items_in_queue=3178618 extracted=18600000
+1591016642.299576998	Reached 18700000 ; States-in-collection: 21899646 ; Time: 1591016642.299520
+1591016642.299627066	>>>Queue Stats: inserted=21899646 items_in_queue=3199646 extracted=18700000
+1591016642.823960066	Reached 18800000 ; States-in-collection: 21960310 ; Time: 1591016642.823904
+1591016642.823985100	>>>Queue Stats: inserted=21960310 items_in_queue=3160310 extracted=18800000
+1591016643.388259888	Reached 18900000 ; States-in-collection: 22016033 ; Time: 1591016643.388204
+1591016643.388287067	>>>Queue Stats: inserted=22016033 items_in_queue=3116033 extracted=18900000
+1591016644.001157045	Reached 19000000 ; States-in-collection: 22064850 ; Time: 1591016644.001105
+1591016644.001182079	>>>Queue Stats: inserted=22064850 items_in_queue=3064850 extracted=19000000
+1591016644.658695936	Reached 19100000 ; States-in-collection: 22124708 ; Time: 1591016644.658633
+1591016644.658747911	>>>Queue Stats: inserted=22124708 items_in_queue=3024708 extracted=19100000
+1591016645.320086002	Reached 19200000 ; States-in-collection: 22184538 ; Time: 1591016645.320008
+1591016645.320107937	>>>Queue Stats: inserted=22184538 items_in_queue=2984538 extracted=19200000
+1591016645.973058939	Reached 19300000 ; States-in-collection: 22225940 ; Time: 1591016645.972999
+1591016645.973086119	>>>Queue Stats: inserted=22225940 items_in_queue=2925940 extracted=19300000
+1591016646.618374109	Reached 19400000 ; States-in-collection: 22262713 ; Time: 1591016646.618319
+1591016646.618400097	>>>Queue Stats: inserted=22262713 items_in_queue=2862713 extracted=19400000
+1591016647.293728113	Reached 19500000 ; States-in-collection: 22313867 ; Time: 1591016647.293674
+1591016647.293752909	>>>Queue Stats: inserted=22313867 items_in_queue=2813867 extracted=19500000
+1591016647.968094110	Reached 19600000 ; States-in-collection: 22404529 ; Time: 1591016647.968033
+1591016647.968122005	>>>Queue Stats: inserted=22404529 items_in_queue=2804529 extracted=19600000
+1591016648.540131092	Reached 19700000 ; States-in-collection: 22458609 ; Time: 1591016648.540057
+1591016648.540169954	>>>Queue Stats: inserted=22458609 items_in_queue=2758609 extracted=19700000
+1591016649.193078041	Reached 19800000 ; States-in-collection: 22510379 ; Time: 1591016649.193055
+1591016649.193124056	>>>Queue Stats: inserted=22510379 items_in_queue=2710379 extracted=19800000
+1591016649.867712975	Reached 19900000 ; States-in-collection: 22569682 ; Time: 1591016649.867655
+1591016649.867739916	>>>Queue Stats: inserted=22569682 items_in_queue=2669682 extracted=19900000
+1591016650.540101051	Reached 20000000 ; States-in-collection: 22620010 ; Time: 1591016650.540043
+1591016650.540127993	>>>Queue Stats: inserted=22620010 items_in_queue=2620010 extracted=20000000
+1591016651.208220959	Reached 20100000 ; States-in-collection: 22659398 ; Time: 1591016651.208165
+1591016651.208245993	>>>Queue Stats: inserted=22659398 items_in_queue=2559398 extracted=20100000
+1591016651.887516022	Reached 20200000 ; States-in-collection: 22703652 ; Time: 1591016651.887459
+1591016651.887542963	>>>Queue Stats: inserted=22703652 items_in_queue=2503652 extracted=20200000
+1591016652.610532045	Reached 20300000 ; States-in-collection: 22833121 ; Time: 1591016652.610479
+1591016652.610558987	>>>Queue Stats: inserted=22833121 items_in_queue=2533121 extracted=20300000
+1591016653.164490938	Reached 20400000 ; States-in-collection: 22893352 ; Time: 1591016653.164426
+1591016653.164515972	>>>Queue Stats: inserted=22893352 items_in_queue=2493352 extracted=20400000
+1591016653.713717937	Reached 20500000 ; States-in-collection: 22898435 ; Time: 1591016653.713663
+1591016653.713742971	>>>Queue Stats: inserted=22898435 items_in_queue=2398435 extracted=20500000
+1591016654.438348055	Reached 20600000 ; States-in-collection: 22955405 ; Time: 1591016654.438287
+1591016654.438375950	>>>Queue Stats: inserted=22955405 items_in_queue=2355405 extracted=20600000
+1591016655.132673979	Reached 20700000 ; States-in-collection: 22990895 ; Time: 1591016655.132614
+1591016655.132699013	>>>Queue Stats: inserted=22990895 items_in_queue=2290895 extracted=20700000
+1591016655.903670073	Reached 20800000 ; States-in-collection: 23077827 ; Time: 1591016655.903617
+1591016655.903696060	>>>Queue Stats: inserted=23077827 items_in_queue=2277827 extracted=20800000
+1591016656.582674980	Reached 20900000 ; States-in-collection: 23137536 ; Time: 1591016656.582610
+1591016656.582701921	>>>Queue Stats: inserted=23137536 items_in_queue=2237536 extracted=20900000
+1591016657.254592896	Reached 21000000 ; States-in-collection: 23174847 ; Time: 1591016657.254538
+1591016657.254617929	>>>Queue Stats: inserted=23174847 items_in_queue=2174847 extracted=21000000
+1591016657.970244884	Reached 21100000 ; States-in-collection: 23219913 ; Time: 1591016657.970182
+1591016657.970271111	>>>Queue Stats: inserted=23219913 items_in_queue=2119913 extracted=21100000
+1591016658.739967108	Reached 21200000 ; States-in-collection: 23293681 ; Time: 1591016658.739912
+1591016658.739991903	>>>Queue Stats: inserted=23293681 items_in_queue=2093681 extracted=21200000
+1591016659.478223085	Reached 21300000 ; States-in-collection: 23477430 ; Time: 1591016659.478164
+1591016659.478250027	>>>Queue Stats: inserted=23477430 items_in_queue=2177430 extracted=21300000
+1591016660.265156984	Reached 21400000 ; States-in-collection: 23624366 ; Time: 1591016660.265098
+1591016660.265182018	>>>Queue Stats: inserted=23624366 items_in_queue=2224366 extracted=21400000
+1591016661.252304077	Reached 21500000 ; States-in-collection: 23857876 ; Time: 1591016661.252246
+1591016661.252329111	>>>Queue Stats: inserted=23857876 items_in_queue=2357876 extracted=21500000
+1591016662.095127106	Reached 21600000 ; States-in-collection: 24009904 ; Time: 1591016662.095065
+1591016662.095153093	>>>Queue Stats: inserted=24009904 items_in_queue=2409904 extracted=21600000
+1591016663.109009981	Reached 21700000 ; States-in-collection: 24202268 ; Time: 1591016663.108953
+1591016663.109035015	>>>Queue Stats: inserted=24202268 items_in_queue=2502268 extracted=21700000
+1591016663.801232100	Reached 21800000 ; States-in-collection: 24312333 ; Time: 1591016663.801198
+1591016663.801280022	>>>Queue Stats: inserted=24312333 items_in_queue=2512333 extracted=21800000
+1591016664.182487965	Reached 21900000 ; States-in-collection: 24356951 ; Time: 1591016664.182429
+1591016664.182516098	>>>Queue Stats: inserted=24356951 items_in_queue=2456951 extracted=21900000
+1591016664.957628012	Reached 22000000 ; States-in-collection: 24489046 ; Time: 1591016664.957568
+1591016664.957654953	>>>Queue Stats: inserted=24489046 items_in_queue=2489046 extracted=22000000
+1591016665.721050024	Reached 22100000 ; States-in-collection: 24614278 ; Time: 1591016665.721010
+1591016665.721075058	>>>Queue Stats: inserted=24614278 items_in_queue=2514278 extracted=22100000
+1591016666.461690903	Reached 22200000 ; States-in-collection: 24726542 ; Time: 1591016666.461633
+1591016666.461718082	>>>Queue Stats: inserted=24726542 items_in_queue=2526542 extracted=22200000
+1591016667.152071953	Reached 22300000 ; States-in-collection: 24808901 ; Time: 1591016667.152011
+1591016667.152096987	>>>Queue Stats: inserted=24808901 items_in_queue=2508901 extracted=22300000
+1591016667.933336973	Reached 22400000 ; States-in-collection: 24917463 ; Time: 1591016667.933279
+1591016667.933362961	>>>Queue Stats: inserted=24917463 items_in_queue=2517463 extracted=22400000
+1591016668.741167068	Reached 22500000 ; States-in-collection: 25018418 ; Time: 1591016668.741113
+1591016668.741192102	>>>Queue Stats: inserted=25018418 items_in_queue=2518418 extracted=22500000
+1591016669.498492002	Reached 22600000 ; States-in-collection: 25103468 ; Time: 1591016669.498433
+1591016669.498517990	>>>Queue Stats: inserted=25103468 items_in_queue=2503468 extracted=22600000
+1591016670.098862886	Reached 22700000 ; States-in-collection: 25154853 ; Time: 1591016670.098800
+1591016670.098889112	>>>Queue Stats: inserted=25154853 items_in_queue=2454853 extracted=22700000
+1591016670.778702974	Reached 22800000 ; States-in-collection: 25239038 ; Time: 1591016670.778646
+1591016670.778728008	>>>Queue Stats: inserted=25239038 items_in_queue=2439038 extracted=22800000
+1591016671.532202005	Reached 22900000 ; States-in-collection: 25335813 ; Time: 1591016671.532141
+1591016671.532227993	>>>Queue Stats: inserted=25335813 items_in_queue=2435813 extracted=22900000
+1591016672.412322044	Reached 23000000 ; States-in-collection: 25481590 ; Time: 1591016672.412262
+1591016672.412348032	>>>Queue Stats: inserted=25481590 items_in_queue=2481590 extracted=23000000
+1591016673.124228954	Reached 23100000 ; States-in-collection: 25541594 ; Time: 1591016673.124170
+1591016673.124255896	>>>Queue Stats: inserted=25541594 items_in_queue=2441594 extracted=23100000
+1591016673.855906010	Reached 23200000 ; States-in-collection: 25608810 ; Time: 1591016673.855850
+1591016673.855931997	>>>Queue Stats: inserted=25608810 items_in_queue=2408810 extracted=23200000
+1591016674.700989008	Reached 23300000 ; States-in-collection: 25702701 ; Time: 1591016674.700930
+1591016674.701015949	>>>Queue Stats: inserted=25702701 items_in_queue=2402701 extracted=23300000
+1591016675.515485048	Reached 23400000 ; States-in-collection: 25789831 ; Time: 1591016675.515429
+1591016675.515511036	>>>Queue Stats: inserted=25789831 items_in_queue=2389831 extracted=23400000
+1591016676.351778030	Reached 23500000 ; States-in-collection: 25914603 ; Time: 1591016676.351724
+1591016676.351802111	>>>Queue Stats: inserted=25914603 items_in_queue=2414603 extracted=23500000
+1591016677.270015001	Reached 23600000 ; States-in-collection: 26099618 ; Time: 1591016677.269960
+1591016677.270040035	>>>Queue Stats: inserted=26099618 items_in_queue=2499618 extracted=23600000
+1591016678.136435032	Reached 23700000 ; States-in-collection: 26277322 ; Time: 1591016678.136365
+1591016678.136459112	>>>Queue Stats: inserted=26277322 items_in_queue=2577322 extracted=23700000
+1591016679.078942060	Reached 23800000 ; States-in-collection: 26438087 ; Time: 1591016679.078884
+1591016679.078969002	>>>Queue Stats: inserted=26438087 items_in_queue=2638087 extracted=23800000
+1591016680.023236990	Reached 23900000 ; States-in-collection: 26586391 ; Time: 1591016680.023186
+1591016680.023261070	>>>Queue Stats: inserted=26586391 items_in_queue=2686391 extracted=23900000
+1591016680.964298964	Reached 24000000 ; States-in-collection: 26731792 ; Time: 1591016680.964240
+1591016680.964343071	>>>Queue Stats: inserted=26731792 items_in_queue=2731792 extracted=24000000
+1591016681.902223110	Reached 24100000 ; States-in-collection: 26951979 ; Time: 1591016681.902166
+1591016681.902249098	>>>Queue Stats: inserted=26951979 items_in_queue=2851979 extracted=24100000
+1591016682.787153959	Reached 24200000 ; States-in-collection: 27140323 ; Time: 1591016682.787102
+1591016682.787179947	>>>Queue Stats: inserted=27140323 items_in_queue=2940323 extracted=24200000
+1591016683.429296970	Reached 24300000 ; States-in-collection: 27216513 ; Time: 1591016683.429241
+1591016683.429322958	>>>Queue Stats: inserted=27216513 items_in_queue=2916513 extracted=24300000
+1591016684.207109928	Reached 24400000 ; States-in-collection: 27337804 ; Time: 1591016684.207053
+1591016684.207134008	>>>Queue Stats: inserted=27337804 items_in_queue=2937804 extracted=24400000
+1591016685.148559093	Reached 24500000 ; States-in-collection: 27511547 ; Time: 1591016685.148505
+1591016685.148607016	>>>Queue Stats: inserted=27511547 items_in_queue=3011547 extracted=24500000
+1591016686.104152918	Reached 24600000 ; States-in-collection: 27662853 ; Time: 1591016686.104096
+1591016686.104180098	>>>Queue Stats: inserted=27662853 items_in_queue=3062853 extracted=24600000
+1591016686.754916906	Reached 24700000 ; States-in-collection: 27708568 ; Time: 1591016686.754863
+1591016686.754940987	>>>Queue Stats: inserted=27708568 items_in_queue=3008568 extracted=24700000
+1591016687.571290016	Reached 24800000 ; States-in-collection: 27810140 ; Time: 1591016687.571243
+1591016687.571315050	>>>Queue Stats: inserted=27810140 items_in_queue=3010140 extracted=24800000
+1591016688.205111980	Reached 24900000 ; States-in-collection: 27887052 ; Time: 1591016688.205055
+1591016688.205137968	>>>Queue Stats: inserted=27887052 items_in_queue=2987052 extracted=24900000
+1591016688.928426027	Reached 25000000 ; States-in-collection: 27977461 ; Time: 1591016688.928373
+1591016688.928452015	>>>Queue Stats: inserted=27977461 items_in_queue=2977461 extracted=25000000
+1591016689.747386932	Reached 25100000 ; States-in-collection: 28071119 ; Time: 1591016689.747339
+1591016689.747411966	>>>Queue Stats: inserted=28071119 items_in_queue=2971119 extracted=25100000
+1591016690.434986115	Reached 25200000 ; States-in-collection: 28120046 ; Time: 1591016690.434937
+1591016690.435044050	>>>Queue Stats: inserted=28120046 items_in_queue=2920046 extracted=25200000
+1591016691.175708055	Reached 25300000 ; States-in-collection: 28209122 ; Time: 1591016691.175651
+1591016691.175734043	>>>Queue Stats: inserted=28209122 items_in_queue=2909122 extracted=25300000
+1591016691.835547924	Reached 25400000 ; States-in-collection: 28255481 ; Time: 1591016691.835492
+1591016691.835572958	>>>Queue Stats: inserted=28255481 items_in_queue=2855481 extracted=25400000
+1591016692.570096970	Reached 25500000 ; States-in-collection: 28313228 ; Time: 1591016692.570024
+1591016692.570123911	>>>Queue Stats: inserted=28313228 items_in_queue=2813228 extracted=25500000
+1591016693.246701956	Reached 25600000 ; States-in-collection: 28348961 ; Time: 1591016693.246638
+1591016693.246727943	>>>Queue Stats: inserted=28348961 items_in_queue=2748961 extracted=25600000
+1591016693.976228952	Reached 25700000 ; States-in-collection: 28401156 ; Time: 1591016693.976172
+1591016693.976253986	>>>Queue Stats: inserted=28401156 items_in_queue=2701156 extracted=25700000
+1591016694.718149900	Reached 25800000 ; States-in-collection: 28468153 ; Time: 1591016694.718100
+1591016694.718175888	>>>Queue Stats: inserted=28468153 items_in_queue=2668153 extracted=25800000
+1591016695.528299093	Reached 25900000 ; States-in-collection: 28570787 ; Time: 1591016695.528240
+1591016695.528322935	>>>Queue Stats: inserted=28570787 items_in_queue=2670787 extracted=25900000
+1591016696.316118956	Reached 26000000 ; States-in-collection: 28640507 ; Time: 1591016696.316069
+1591016696.316158056	>>>Queue Stats: inserted=28640507 items_in_queue=2640507 extracted=26000000
+1591016697.173398018	Reached 26100000 ; States-in-collection: 28712724 ; Time: 1591016697.173342
+1591016697.173423052	>>>Queue Stats: inserted=28712724 items_in_queue=2612724 extracted=26100000
+1591016698.284893036	Reached 26200000 ; States-in-collection: 28931928 ; Time: 1591016698.284837
+1591016698.284918070	>>>Queue Stats: inserted=28931928 items_in_queue=2731928 extracted=26200000
+1591016699.335894108	Reached 26300000 ; States-in-collection: 29102034 ; Time: 1591016699.335833
+1591016699.335918903	>>>Queue Stats: inserted=29102034 items_in_queue=2802034 extracted=26300000
+1591016700.092875004	Reached 26400000 ; States-in-collection: 29228864 ; Time: 1591016700.092820
+1591016700.092900038	>>>Queue Stats: inserted=29228864 items_in_queue=2828864 extracted=26400000
+1591016700.860905886	Reached 26500000 ; States-in-collection: 29340111 ; Time: 1591016700.860848
+1591016700.860929966	>>>Queue Stats: inserted=29340111 items_in_queue=2840111 extracted=26500000
+1591016701.647519112	Reached 26600000 ; States-in-collection: 29422975 ; Time: 1591016701.647463
+1591016701.647542953	>>>Queue Stats: inserted=29422975 items_in_queue=2822975 extracted=26600000
+1591016702.493057013	Reached 26700000 ; States-in-collection: 29515671 ; Time: 1591016702.493004
+1591016702.493083000	>>>Queue Stats: inserted=29515671 items_in_queue=2815671 extracted=26700000
+1591016703.270489931	Reached 26800000 ; States-in-collection: 29585884 ; Time: 1591016703.270441
+1591016703.270513058	>>>Queue Stats: inserted=29585884 items_in_queue=2785884 extracted=26800000
+1591016704.182251930	Reached 26900000 ; States-in-collection: 29692945 ; Time: 1591016704.182197
+1591016704.182276011	>>>Queue Stats: inserted=29692945 items_in_queue=2792945 extracted=26900000
+1591016704.856112003	Reached 27000000 ; States-in-collection: 29760877 ; Time: 1591016704.856046
+1591016704.856137991	>>>Queue Stats: inserted=29760877 items_in_queue=2760877 extracted=27000000
+1591016705.085005999	instance_run_solver_thread end
+1591016705.085031986	Finished running threads for curr_depth=32
+1591016705.085053921	Start mark-and-sweep cleanup for curr_depth=32
+1591016706.701978922	Mark+Sweep Progress - 100000/11450880
+1591016706.702009916	Mark+Sweep Progress - 200000/11450880
+1591016706.702013969	Mark+Sweep Progress - 300000/11450880
+1591016706.702018023	Mark+Sweep Progress - 400000/11450880
+1591016706.702020884	Mark+Sweep Progress - 500000/11450880
+1591016706.702023983	Mark+Sweep Progress - 600000/11450880
+1591016706.702028036	Mark+Sweep Progress - 700000/11450880
+1591016706.702030897	Mark+Sweep Progress - 800000/11450880
+1591016706.702033997	Mark+Sweep Progress - 900000/11450880
+1591016706.702037096	Mark+Sweep Progress - 1000000/11450880
+1591016706.702039957	Mark+Sweep Progress - 1100000/11450880
+1591016706.702044010	Mark+Sweep Progress - 1200000/11450880
+1591016706.702047110	Mark+Sweep Progress - 1300000/11450880
+1591016706.702049971	Mark+Sweep Progress - 1400000/11450880
+1591016706.702053070	Mark+Sweep Progress - 1500000/11450880
+1591016706.702055931	Mark+Sweep Progress - 1600000/11450880
+1591016706.702059031	Mark+Sweep Progress - 1700000/11450880
+1591016706.702061892	Mark+Sweep Progress - 1800000/11450880
+1591016706.702064991	Mark+Sweep Progress - 1900000/11450880
+1591016706.702068090	Mark+Sweep Progress - 2000000/11450880
+1591016706.702070951	Mark+Sweep Progress - 2100000/11450880
+1591016706.702074051	Mark+Sweep Progress - 2200000/11450880
+1591016706.702076912	Mark+Sweep Progress - 2300000/11450880
+1591016706.702080011	Mark+Sweep Progress - 2400000/11450880
+1591016706.702083111	Mark+Sweep Progress - 2500000/11450880
+1591016706.702085972	Mark+Sweep Progress - 2600000/11450880
+1591016706.702090025	Mark+Sweep Progress - 2700000/11450880
+1591016706.702092886	Mark+Sweep Progress - 2800000/11450880
+1591016706.702095985	Mark+Sweep Progress - 2900000/11450880
+1591016706.702099085	Mark+Sweep Progress - 3000000/11450880
+1591016706.702101946	Mark+Sweep Progress - 3100000/11450880
+1591016706.702105045	Mark+Sweep Progress - 3200000/11450880
+1591016706.702107906	Mark+Sweep Progress - 3300000/11450880
+1591016706.702111006	Mark+Sweep Progress - 3400000/11450880
+1591016706.702115059	Mark+Sweep Progress - 3500000/11450880
+1591016706.702117920	Mark+Sweep Progress - 3600000/11450880
+1591016706.702121019	Mark+Sweep Progress - 3700000/11450880
+1591016706.702124119	Mark+Sweep Progress - 3800000/11450880
+1591016706.702126980	Mark+Sweep Progress - 3900000/11450880
+1591016706.702130079	Mark+Sweep Progress - 4000000/11450880
+1591016706.702132940	Mark+Sweep Progress - 4100000/11450880
+1591016706.702136993	Mark+Sweep Progress - 4200000/11450880
+1591016706.702140093	Mark+Sweep Progress - 4300000/11450880
+1591016706.702142954	Mark+Sweep Progress - 4400000/11450880
+1591016706.702146053	Mark+Sweep Progress - 4500000/11450880
+1591016706.702148914	Mark+Sweep Progress - 4600000/11450880
+1591016706.702152014	Mark+Sweep Progress - 4700000/11450880
+1591016706.702155113	Mark+Sweep Progress - 4800000/11450880
+1591016706.702157974	Mark+Sweep Progress - 4900000/11450880
+1591016706.702162027	Mark+Sweep Progress - 5000000/11450880
+1591016706.702164888	Mark+Sweep Progress - 5100000/11450880
+1591016706.702167988	Mark+Sweep Progress - 5200000/11450880
+1591016706.702171087	Mark+Sweep Progress - 5300000/11450880
+1591016706.702173948	Mark+Sweep Progress - 5400000/11450880
+1591016706.702177048	Mark+Sweep Progress - 5500000/11450880
+1591016706.702179909	Mark+Sweep Progress - 5600000/11450880
+1591016706.702183008	Mark+Sweep Progress - 5700000/11450880
+1591016706.702186108	Mark+Sweep Progress - 5800000/11450880
+1591016706.702189922	Mark+Sweep Progress - 5900000/11450880
+1591016706.702193022	Mark+Sweep Progress - 6000000/11450880
+1591016706.702195883	Mark+Sweep Progress - 6100000/11450880
+1591016706.702198982	Mark+Sweep Progress - 6200000/11450880
+1591016706.702202082	Mark+Sweep Progress - 6300000/11450880
+1591016706.702204943	Mark+Sweep Progress - 6400000/11450880
+1591016706.702208996	Mark+Sweep Progress - 6500000/11450880
+1591016706.702212095	Mark+Sweep Progress - 6600000/11450880
+1591016706.702214956	Mark+Sweep Progress - 6700000/11450880
+1591016706.702218056	Mark+Sweep Progress - 6800000/11450880
+1591016706.702220917	Mark+Sweep Progress - 6900000/11450880
+1591016706.702224016	Mark+Sweep Progress - 7000000/11450880
+1591016706.702227116	Mark+Sweep Progress - 7100000/11450880
+1591016706.702229977	Mark+Sweep Progress - 7200000/11450880
+1591016706.702234030	Mark+Sweep Progress - 7300000/11450880
+1591016706.702236891	Mark+Sweep Progress - 7400000/11450880
+1591016706.702239990	Mark+Sweep Progress - 7500000/11450880
+1591016706.702243090	Mark+Sweep Progress - 7600000/11450880
+1591016706.702246904	Mark+Sweep Progress - 7700000/11450880
+1591016706.702250004	Mark+Sweep Progress - 7800000/11450880
+1591016706.702253103	Mark+Sweep Progress - 7900000/11450880
+1591016706.702255964	Mark+Sweep Progress - 8000000/11450880
+1591016706.702259064	Mark+Sweep Progress - 8100000/11450880
+1591016706.702261925	Mark+Sweep Progress - 8200000/11450880
+1591016706.702265024	Mark+Sweep Progress - 8300000/11450880
+1591016706.702267885	Mark+Sweep Progress - 8400000/11450880
+1591016706.702271938	Mark+Sweep Progress - 8500000/11450880
+1591016706.702275038	Mark+Sweep Progress - 8600000/11450880
+1591016706.702277899	Mark+Sweep Progress - 8700000/11450880
+1591016706.702280998	Mark+Sweep Progress - 8800000/11450880
+1591016706.702284098	Mark+Sweep Progress - 8900000/11450880
+1591016706.702286959	Mark+Sweep Progress - 9000000/11450880
+1591016706.702290058	Mark+Sweep Progress - 9100000/11450880
+1591016706.702292919	Mark+Sweep Progress - 9200000/11450880
+1591016706.702296019	Mark+Sweep Progress - 9300000/11450880
+1591016706.702299118	Mark+Sweep Progress - 9400000/11450880
+1591016706.702301979	Mark+Sweep Progress - 9500000/11450880
+1591016706.702305079	Mark+Sweep Progress - 9600000/11450880
+1591016706.702308893	Mark+Sweep Progress - 9700000/11450880
+1591016706.702311993	Mark+Sweep Progress - 9800000/11450880
+1591016706.702315092	Mark+Sweep Progress - 9900000/11450880
+1591016706.702317953	Mark+Sweep Progress - 10000000/11450880
+1591016706.702321053	Mark+Sweep Progress - 10100000/11450880
+1591016706.702323914	Mark+Sweep Progress - 10200000/11450880
+1591016706.702327013	Mark+Sweep Progress - 10300000/11450880
+1591016706.702330112	Mark+Sweep Progress - 10400000/11450880
+1591016706.702332973	Mark+Sweep Progress - 10500000/11450880
+1591016706.882088900	Mark+Sweep Progress - 10600000/11450880
+1591016706.882118940	Mark+Sweep Progress - 10700000/11450880
+1591016706.882123947	Mark+Sweep Progress - 10800000/11450880
+1591016706.882127047	Mark+Sweep Progress - 10900000/11450880
+1591016706.882129908	Mark+Sweep Progress - 11000000/11450880
+1591016706.882133007	Mark+Sweep Progress - 11100000/11450880
+1591016706.882136106	Mark+Sweep Progress - 11200000/11450880
+1591016706.882138968	Mark+Sweep Progress - 11300000/11450880
+1591016706.882142067	Mark+Sweep Progress - 11400000/11450880
+1591016706.882144928	Finish mark-and-sweep cleanup for curr_depth=32
+1591016706.882148027	Running threads for curr_depth=33
+1591016706.882152081	instance_run_solver_thread start
+1591016707.045670033	Reached 27100000 ; States-in-collection: 29767461 ; Time: 1591016707.045623
+1591016707.045696974	>>>Queue Stats: inserted=29767461 items_in_queue=2667461 extracted=27100000
+1591016707.646075964	Reached 27200000 ; States-in-collection: 29830901 ; Time: 1591016707.646020
+1591016707.646100044	>>>Queue Stats: inserted=29830901 items_in_queue=2630901 extracted=27200000
+1591016708.273657084	Reached 27300000 ; States-in-collection: 29886801 ; Time: 1591016708.273603
+1591016708.273680925	>>>Queue Stats: inserted=29886801 items_in_queue=2586801 extracted=27300000
+1591016709.043812037	Reached 27400000 ; States-in-collection: 29941142 ; Time: 1591016709.043762
+1591016709.043837070	>>>Queue Stats: inserted=29941142 items_in_queue=2541142 extracted=27400000
+1591016709.808598042	Reached 27500000 ; States-in-collection: 29997405 ; Time: 1591016709.808533
+1591016709.808623075	>>>Queue Stats: inserted=29997405 items_in_queue=2497405 extracted=27500000
+1591016710.481847048	Reached 27600000 ; States-in-collection: 30048055 ; Time: 1591016710.481791
+1591016710.481872082	>>>Queue Stats: inserted=30048055 items_in_queue=2448055 extracted=27600000
+1591016711.142026901	Reached 27700000 ; States-in-collection: 30077521 ; Time: 1591016711.141970
+1591016711.142051935	>>>Queue Stats: inserted=30077521 items_in_queue=2377521 extracted=27700000
+1591016711.636630058	Reached 27800000 ; States-in-collection: 30103748 ; Time: 1591016711.636569
+1591016711.636655092	>>>Queue Stats: inserted=30103748 items_in_queue=2303748 extracted=27800000
+1591016712.837096930	Reached 27900000 ; States-in-collection: 30245644 ; Time: 1591016712.837036
+1591016712.837121964	>>>Queue Stats: inserted=30245644 items_in_queue=2345644 extracted=27900000
+1591016713.796709061	Reached 28000000 ; States-in-collection: 30373378 ; Time: 1591016713.796652
+1591016713.796735048	>>>Queue Stats: inserted=30373378 items_in_queue=2373378 extracted=28000000
+1591016715.046200037	Reached 28100000 ; States-in-collection: 30519917 ; Time: 1591016715.046144
+1591016715.046224117	>>>Queue Stats: inserted=30519917 items_in_queue=2419917 extracted=28100000
+1591016716.305311918	Reached 28200000 ; States-in-collection: 30663850 ; Time: 1591016716.305259
+1591016716.305335999	>>>Queue Stats: inserted=30663850 items_in_queue=2463850 extracted=28200000
+1591016717.365423918	Reached 28300000 ; States-in-collection: 30775189 ; Time: 1591016717.365362
+1591016717.365447998	>>>Queue Stats: inserted=30775189 items_in_queue=2475189 extracted=28300000
+1591016718.151499987	Reached 28400000 ; States-in-collection: 30850079 ; Time: 1591016718.151442
+1591016718.151525974	>>>Queue Stats: inserted=30850079 items_in_queue=2450079 extracted=28400000
+1591016718.942610979	Reached 28500000 ; States-in-collection: 30924053 ; Time: 1591016718.942528
+1591016718.942668915	>>>Queue Stats: inserted=30924053 items_in_queue=2424053 extracted=28500000
+1591016719.674283981	Reached 28600000 ; States-in-collection: 30997590 ; Time: 1591016719.674228
+1591016719.674309015	>>>Queue Stats: inserted=30997590 items_in_queue=2397590 extracted=28600000
+1591016720.327639103	Reached 28700000 ; States-in-collection: 31085389 ; Time: 1591016720.327593
+1591016720.327662945	>>>Queue Stats: inserted=31085389 items_in_queue=2385389 extracted=28700000
+1591016721.302602053	Reached 28800000 ; States-in-collection: 31408840 ; Time: 1591016721.302544
+1591016721.302628040	>>>Queue Stats: inserted=31408840 items_in_queue=2608840 extracted=28800000
+1591016722.292511940	Reached 28900000 ; States-in-collection: 31699785 ; Time: 1591016722.292456
+1591016722.292536974	>>>Queue Stats: inserted=31699785 items_in_queue=2799785 extracted=28900000
+1591016722.919600010	Reached 29000000 ; States-in-collection: 31822759 ; Time: 1591016722.919550
+1591016722.919656992	>>>Queue Stats: inserted=31822759 items_in_queue=2822759 extracted=29000000
+1591016723.395917892	Reached 29100000 ; States-in-collection: 31873331 ; Time: 1591016723.395861
+1591016723.395942926	>>>Queue Stats: inserted=31873331 items_in_queue=2773331 extracted=29100000
+1591016724.266001940	Reached 29200000 ; States-in-collection: 32041934 ; Time: 1591016724.265941
+1591016724.266027927	>>>Queue Stats: inserted=32041934 items_in_queue=2841934 extracted=29200000
+1591016724.892191887	Reached 29300000 ; States-in-collection: 32134033 ; Time: 1591016724.892131
+1591016724.892215967	>>>Queue Stats: inserted=32134033 items_in_queue=2834033 extracted=29300000
+1591016725.718920946	Reached 29400000 ; States-in-collection: 32250571 ; Time: 1591016725.718858
+1591016725.718945980	>>>Queue Stats: inserted=32250571 items_in_queue=2850571 extracted=29400000
+1591016726.451913118	Reached 29500000 ; States-in-collection: 32402310 ; Time: 1591016726.451852
+1591016726.451940060	>>>Queue Stats: inserted=32402310 items_in_queue=2902310 extracted=29500000
+1591016727.073111057	Reached 29600000 ; States-in-collection: 32499414 ; Time: 1591016727.073053
+1591016727.073136091	>>>Queue Stats: inserted=32499414 items_in_queue=2899414 extracted=29600000
+1591016727.726418018	Reached 29700000 ; States-in-collection: 32605114 ; Time: 1591016727.726362
+1591016727.726443052	>>>Queue Stats: inserted=32605114 items_in_queue=2905114 extracted=29700000
+1591016728.313424110	Reached 29800000 ; States-in-collection: 32692437 ; Time: 1591016728.313370
+1591016728.313447952	>>>Queue Stats: inserted=32692437 items_in_queue=2892437 extracted=29800000
+1591016728.869643927	Reached 29900000 ; States-in-collection: 32782139 ; Time: 1591016728.869566
+1591016728.869683027	>>>Queue Stats: inserted=32782139 items_in_queue=2882139 extracted=29900000
+1591016729.593786955	Reached 30000000 ; States-in-collection: 32935440 ; Time: 1591016729.593731
+1591016729.593811035	>>>Queue Stats: inserted=32935440 items_in_queue=2935440 extracted=30000000
+1591016730.163187027	Reached 30100000 ; States-in-collection: 33025451 ; Time: 1591016730.163130
+1591016730.163212061	>>>Queue Stats: inserted=33025451 items_in_queue=2925451 extracted=30100000
+1591016730.644448042	Reached 30200000 ; States-in-collection: 33073585 ; Time: 1591016730.644402
+1591016730.644473076	>>>Queue Stats: inserted=33073585 items_in_queue=2873585 extracted=30200000
+1591016731.215502024	Reached 30300000 ; States-in-collection: 33160865 ; Time: 1591016731.215438
+1591016731.215527058	>>>Queue Stats: inserted=33160865 items_in_queue=2860865 extracted=30300000
+1591016731.755240917	Reached 30400000 ; States-in-collection: 33242170 ; Time: 1591016731.755182
+1591016731.755265951	>>>Queue Stats: inserted=33242170 items_in_queue=2842170 extracted=30400000
+1591016732.193011999	instance_run_solver_thread end
+1591016732.193036079	Finished running threads for curr_depth=33
+1591016732.193038940	Start mark-and-sweep cleanup for curr_depth=33
+1591016732.728518963	Mark+Sweep Progress - 100000/3450368
+1591016732.728553057	Mark+Sweep Progress - 200000/3450368
+1591016732.728558064	Mark+Sweep Progress - 300000/3450368
+1591016732.728560925	Mark+Sweep Progress - 400000/3450368
+1591016732.728564024	Mark+Sweep Progress - 500000/3450368
+1591016732.728566885	Mark+Sweep Progress - 600000/3450368
+1591016732.728570938	Mark+Sweep Progress - 700000/3450368
+1591016732.728574038	Mark+Sweep Progress - 800000/3450368
+1591016732.728576899	Mark+Sweep Progress - 900000/3450368
+1591016732.728588104	Mark+Sweep Progress - 1000000/3450368
+1591016732.728594065	Mark+Sweep Progress - 1100000/3450368
+1591016732.728598118	Mark+Sweep Progress - 1200000/3450368
+1591016732.728600979	Mark+Sweep Progress - 1300000/3450368
+1591016732.728604078	Mark+Sweep Progress - 1400000/3450368
+1591016732.728606939	Mark+Sweep Progress - 1500000/3450368
+1591016732.728610039	Mark+Sweep Progress - 1600000/3450368
+1591016732.728612900	Mark+Sweep Progress - 1700000/3450368
+1591016732.728615999	Mark+Sweep Progress - 1800000/3450368
+1591016732.728619099	Mark+Sweep Progress - 1900000/3450368
+1591016732.728621960	Mark+Sweep Progress - 2000000/3450368
+1591016732.728625059	Mark+Sweep Progress - 2100000/3450368
+1591016732.728627920	Mark+Sweep Progress - 2200000/3450368
+1591016732.728631020	Mark+Sweep Progress - 2300000/3450368
+1591016732.728634119	Mark+Sweep Progress - 2400000/3450368
+1591016732.728636980	Mark+Sweep Progress - 2500000/3450368
+1591016732.728640079	Mark+Sweep Progress - 2600000/3450368
+1591016732.728642941	Mark+Sweep Progress - 2700000/3450368
+1591016732.728646040	Mark+Sweep Progress - 2800000/3450368
+1591016732.728648901	Mark+Sweep Progress - 2900000/3450368
+1591016732.728652000	Mark+Sweep Progress - 3000000/3450368
+1591016732.728655100	Mark+Sweep Progress - 3100000/3450368
+1591016732.728657961	Mark+Sweep Progress - 3200000/3450368
+1591016732.728661060	Mark+Sweep Progress - 3300000/3450368
+1591016732.728663921	Mark+Sweep Progress - 3400000/3450368
+1591016732.728667021	Finish mark-and-sweep cleanup for curr_depth=33
+1591016732.728671074	Running threads for curr_depth=34
+1591016732.728673935	instance_run_solver_thread start
+1591016732.746783018	Reached 30500000 ; States-in-collection: 33289509 ; Time: 1591016732.746718
+1591016732.746810913	>>>Queue Stats: inserted=33289509 items_in_queue=2789509 extracted=30500000
+1591016733.268323898	Reached 30600000 ; States-in-collection: 33324947 ; Time: 1591016733.268267
+1591016733.268347979	>>>Queue Stats: inserted=33324947 items_in_queue=2724947 extracted=30600000
+1591016733.856600046	Reached 30700000 ; States-in-collection: 33389409 ; Time: 1591016733.856539
+1591016733.856625080	>>>Queue Stats: inserted=33389409 items_in_queue=2689409 extracted=30700000
+1591016734.304183006	Reached 30800000 ; States-in-collection: 33442765 ; Time: 1591016734.304121
+1591016734.304208994	>>>Queue Stats: inserted=33442765 items_in_queue=2642765 extracted=30800000
+1591016735.264630079	Reached 30900000 ; States-in-collection: 33492971 ; Time: 1591016735.264603
+1591016735.264655113	>>>Queue Stats: inserted=33492971 items_in_queue=2592971 extracted=30900000
+1591016736.080467939	Reached 31000000 ; States-in-collection: 33529443 ; Time: 1591016736.080411
+1591016736.080493927	>>>Queue Stats: inserted=33529443 items_in_queue=2529443 extracted=31000000
+1591016736.761612892	Reached 31100000 ; States-in-collection: 33557801 ; Time: 1591016736.761537
+1591016736.761651039	>>>Queue Stats: inserted=33557801 items_in_queue=2457801 extracted=31100000
+1591016737.484517097	Reached 31200000 ; States-in-collection: 33586621 ; Time: 1591016737.484459
+1591016737.484543085	>>>Queue Stats: inserted=33586621 items_in_queue=2386621 extracted=31200000
+1591016738.172100067	Reached 31300000 ; States-in-collection: 33615799 ; Time: 1591016738.172041
+1591016738.172125101	>>>Queue Stats: inserted=33615799 items_in_queue=2315799 extracted=31300000
+1591016738.857670069	Reached 31400000 ; States-in-collection: 33642586 ; Time: 1591016738.857615
+1591016738.857695103	>>>Queue Stats: inserted=33642586 items_in_queue=2242586 extracted=31400000
+1591016739.368155003	Reached 31500000 ; States-in-collection: 33652575 ; Time: 1591016739.368097
+1591016739.368181944	>>>Queue Stats: inserted=33652575 items_in_queue=2152575 extracted=31500000
+1591016739.877545118	Reached 31600000 ; States-in-collection: 33663551 ; Time: 1591016739.877488
+1591016739.877571106	>>>Queue Stats: inserted=33663551 items_in_queue=2063551 extracted=31600000
+1591016740.354698896	Reached 31700000 ; States-in-collection: 33691701 ; Time: 1591016740.354639
+1591016740.354723930	>>>Queue Stats: inserted=33691701 items_in_queue=1991701 extracted=31700000
+1591016741.150700092	Reached 31800000 ; States-in-collection: 33811571 ; Time: 1591016741.150638
+1591016741.150726080	>>>Queue Stats: inserted=33811571 items_in_queue=2011571 extracted=31800000
+1591016742.049288034	Reached 31900000 ; States-in-collection: 33920159 ; Time: 1591016742.049230
+1591016742.049313068	>>>Queue Stats: inserted=33920159 items_in_queue=2020159 extracted=31900000
+1591016742.849612951	Reached 32000000 ; States-in-collection: 34011889 ; Time: 1591016742.849525
+1591016742.849651098	>>>Queue Stats: inserted=34011889 items_in_queue=2011889 extracted=32000000
+1591016743.576823950	Reached 32100000 ; States-in-collection: 34093239 ; Time: 1591016743.576767
+1591016743.576849937	>>>Queue Stats: inserted=34093239 items_in_queue=1993239 extracted=32100000
+1591016744.046598911	Reached 32200000 ; States-in-collection: 34121010 ; Time: 1591016744.046531
+1591016744.046624899	>>>Queue Stats: inserted=34121010 items_in_queue=1921010 extracted=32200000
+1591016744.664963961	Reached 32300000 ; States-in-collection: 34154581 ; Time: 1591016744.664909
+1591016744.664990902	>>>Queue Stats: inserted=34154581 items_in_queue=1854581 extracted=32300000
+1591016745.254842043	Reached 32400000 ; States-in-collection: 34216229 ; Time: 1591016745.254781
+1591016745.254865885	>>>Queue Stats: inserted=34216229 items_in_queue=1816229 extracted=32400000
+1591016746.174557924	Reached 32500000 ; States-in-collection: 34517794 ; Time: 1591016746.174494
+1591016746.174592018	>>>Queue Stats: inserted=34517794 items_in_queue=2017794 extracted=32500000
+1591016746.671036959	Reached 32600000 ; States-in-collection: 34567840 ; Time: 1591016746.670980
+1591016746.671061993	>>>Queue Stats: inserted=34567840 items_in_queue=1967840 extracted=32600000
+1591016747.200951099	Reached 32700000 ; States-in-collection: 34658938 ; Time: 1591016747.200893
+1591016747.200975895	>>>Queue Stats: inserted=34658938 items_in_queue=1958938 extracted=32700000
+1591016747.925340891	Reached 32800000 ; States-in-collection: 34809505 ; Time: 1591016747.925285
+1591016747.925365925	>>>Queue Stats: inserted=34809505 items_in_queue=2009505 extracted=32800000
+1591016749.019944906	Reached 32900000 ; States-in-collection: 35043259 ; Time: 1591016749.019888
+1591016749.019969940	>>>Queue Stats: inserted=35043259 items_in_queue=2143259 extracted=32900000
+1591016749.527976990	Reached 33000000 ; States-in-collection: 35085011 ; Time: 1591016749.527923
+1591016749.528003931	>>>Queue Stats: inserted=35085011 items_in_queue=2085011 extracted=33000000
+1591016750.549757957	Reached 33100000 ; States-in-collection: 35285901 ; Time: 1591016750.549700
+1591016750.549782991	>>>Queue Stats: inserted=35285901 items_in_queue=2185901 extracted=33100000
+1591016751.349065065	Reached 33200000 ; States-in-collection: 35380376 ; Time: 1591016751.349010
+1591016751.349088907	>>>Queue Stats: inserted=35380376 items_in_queue=2180376 extracted=33200000
+1591016752.106216908	Reached 33300000 ; States-in-collection: 35486277 ; Time: 1591016752.106154
+1591016752.106241941	>>>Queue Stats: inserted=35486277 items_in_queue=2186277 extracted=33300000
+1591016752.938652039	Reached 33400000 ; States-in-collection: 35569359 ; Time: 1591016752.938597
+1591016752.938678026	>>>Queue Stats: inserted=35569359 items_in_queue=2169359 extracted=33400000
+1591016753.607645035	Reached 33500000 ; States-in-collection: 35638483 ; Time: 1591016753.607587
+1591016753.607671976	>>>Queue Stats: inserted=35638483 items_in_queue=2138483 extracted=33500000
+1591016754.334585905	Reached 33600000 ; States-in-collection: 35711320 ; Time: 1591016754.334522
+1591016754.334610939	>>>Queue Stats: inserted=35711320 items_in_queue=2111320 extracted=33600000
+1591016755.002974987	Reached 33700000 ; States-in-collection: 35773278 ; Time: 1591016755.002919
+1591016755.003000021	>>>Queue Stats: inserted=35773278 items_in_queue=2073278 extracted=33700000
+1591016755.766726017	Reached 33800000 ; States-in-collection: 35885961 ; Time: 1591016755.766671
+1591016755.766752005	>>>Queue Stats: inserted=35885961 items_in_queue=2085961 extracted=33800000
+1591016756.585644960	Reached 33900000 ; States-in-collection: 35999477 ; Time: 1591016756.585589
+1591016756.585669994	>>>Queue Stats: inserted=35999477 items_in_queue=2099477 extracted=33900000
+1591016757.615431070	Reached 34000000 ; States-in-collection: 36150806 ; Time: 1591016757.615381
+1591016757.615457058	>>>Queue Stats: inserted=36150806 items_in_queue=2150806 extracted=34000000
+1591016758.453614950	Reached 34100000 ; States-in-collection: 36306117 ; Time: 1591016758.453542
+1591016758.453654051	>>>Queue Stats: inserted=36306117 items_in_queue=2206117 extracted=34100000
+1591016759.357074976	Reached 34200000 ; States-in-collection: 36456719 ; Time: 1591016759.357053
+1591016759.357103109	>>>Queue Stats: inserted=36456719 items_in_queue=2256719 extracted=34200000
+1591016760.178953886	Reached 34300000 ; States-in-collection: 36572303 ; Time: 1591016760.178902
+1591016760.178978920	>>>Queue Stats: inserted=36572303 items_in_queue=2272303 extracted=34300000
+1591016761.007792950	Reached 34400000 ; States-in-collection: 36671604 ; Time: 1591016761.007732
+1591016761.007818937	>>>Queue Stats: inserted=36671604 items_in_queue=2271604 extracted=34400000
+1591016761.734937906	Reached 34500000 ; States-in-collection: 36777595 ; Time: 1591016761.734883
+1591016761.734961987	>>>Queue Stats: inserted=36777595 items_in_queue=2277595 extracted=34500000
+1591016762.398381948	Reached 34600000 ; States-in-collection: 36841185 ; Time: 1591016762.398329
+1591016762.398407936	>>>Queue Stats: inserted=36841185 items_in_queue=2241185 extracted=34600000
+1591016763.071266890	Reached 34700000 ; States-in-collection: 36902250 ; Time: 1591016763.071210
+1591016763.071291924	>>>Queue Stats: inserted=36902250 items_in_queue=2202250 extracted=34700000
+1591016763.659929991	Reached 34800000 ; States-in-collection: 36951225 ; Time: 1591016763.659875
+1591016763.659954071	>>>Queue Stats: inserted=36951225 items_in_queue=2151225 extracted=34800000
+1591016764.444621086	Reached 34900000 ; States-in-collection: 37033205 ; Time: 1591016764.444564
+1591016764.444644928	>>>Queue Stats: inserted=37033205 items_in_queue=2133205 extracted=34900000
+1591016765.175337076	Reached 35000000 ; States-in-collection: 37150220 ; Time: 1591016765.175281
+1591016765.175363064	>>>Queue Stats: inserted=37150220 items_in_queue=2150220 extracted=35000000
+1591016765.858798027	Reached 35100000 ; States-in-collection: 37244265 ; Time: 1591016765.858742
+1591016765.858823061	>>>Queue Stats: inserted=37244265 items_in_queue=2144265 extracted=35100000
+1591016766.521692038	Reached 35200000 ; States-in-collection: 37303781 ; Time: 1591016766.521638
+1591016766.521718025	>>>Queue Stats: inserted=37303781 items_in_queue=2103781 extracted=35200000
+1591016767.544675112	Reached 35300000 ; States-in-collection: 37489872 ; Time: 1591016767.544619
+1591016767.544701099	>>>Queue Stats: inserted=37489872 items_in_queue=2189872 extracted=35300000
+1591016768.101809978	Reached 35400000 ; States-in-collection: 37566325 ; Time: 1591016768.101750
+1591016768.101835012	>>>Queue Stats: inserted=37566325 items_in_queue=2166325 extracted=35400000
+1591016768.777039051	Reached 35500000 ; States-in-collection: 37649794 ; Time: 1591016768.776985
+1591016768.777064085	>>>Queue Stats: inserted=37649794 items_in_queue=2149794 extracted=35500000
+1591016769.534244061	Reached 35600000 ; States-in-collection: 37745449 ; Time: 1591016769.534190
+1591016769.534269094	>>>Queue Stats: inserted=37745449 items_in_queue=2145449 extracted=35600000
+1591016770.401078939	Reached 35700000 ; States-in-collection: 37872807 ; Time: 1591016770.401028
+1591016770.401103973	>>>Queue Stats: inserted=37872807 items_in_queue=2172807 extracted=35700000
+1591016770.822750092	Reached 35800000 ; States-in-collection: 37877029 ; Time: 1591016770.822686
+1591016770.822772980	>>>Queue Stats: inserted=37877029 items_in_queue=2077029 extracted=35800000
+1591016771.350742102	Reached 35900000 ; States-in-collection: 37922622 ; Time: 1591016771.350716
+1591016771.350766897	>>>Queue Stats: inserted=37922622 items_in_queue=2022622 extracted=35900000
+1591016772.241471052	Reached 36000000 ; States-in-collection: 38045452 ; Time: 1591016772.241417
+1591016772.241496086	>>>Queue Stats: inserted=38045452 items_in_queue=2045452 extracted=36000000
+1591016773.013758898	Reached 36100000 ; States-in-collection: 38147235 ; Time: 1591016773.013705
+1591016773.013784885	>>>Queue Stats: inserted=38147235 items_in_queue=2047235 extracted=36100000
+1591016773.760236025	Reached 36200000 ; States-in-collection: 38249394 ; Time: 1591016773.760182
+1591016773.760261059	>>>Queue Stats: inserted=38249394 items_in_queue=2049394 extracted=36200000
+1591016774.450843096	Reached 36300000 ; States-in-collection: 38341994 ; Time: 1591016774.450783
+1591016774.450869083	>>>Queue Stats: inserted=38341994 items_in_queue=2041994 extracted=36300000
+1591016774.785284996	instance_run_solver_thread end
+1591016774.785310030	Finished running threads for curr_depth=34
+1591016774.785314083	Start mark-and-sweep cleanup for curr_depth=34
+1591016775.892204046	Mark+Sweep Progress - 100000/5900800
+1591016775.892235041	Mark+Sweep Progress - 200000/5900800
+1591016775.892239094	Mark+Sweep Progress - 300000/5900800
+1591016775.892242908	Mark+Sweep Progress - 400000/5900800
+1591016775.892246008	Mark+Sweep Progress - 500000/5900800
+1591016775.892249107	Mark+Sweep Progress - 600000/5900800
+1591016775.892251968	Mark+Sweep Progress - 700000/5900800
+1591016775.892255068	Mark+Sweep Progress - 800000/5900800
+1591016775.892257929	Mark+Sweep Progress - 900000/5900800
+1591016775.892261028	Mark+Sweep Progress - 1000000/5900800
+1591016775.892263889	Mark+Sweep Progress - 1100000/5900800
+1591016775.892266989	Mark+Sweep Progress - 1200000/5900800
+1591016775.892270088	Mark+Sweep Progress - 1300000/5900800
+1591016775.892272949	Mark+Sweep Progress - 1400000/5900800
+1591016775.892276049	Mark+Sweep Progress - 1500000/5900800
+1591016775.892278910	Mark+Sweep Progress - 1600000/5900800
+1591016775.892282009	Mark+Sweep Progress - 1700000/5900800
+1591016775.892285109	Mark+Sweep Progress - 1800000/5900800
+1591016775.892287970	Mark+Sweep Progress - 1900000/5900800
+1591016775.892292023	Mark+Sweep Progress - 2000000/5900800
+1591016775.892294884	Mark+Sweep Progress - 2100000/5900800
+1591016775.892297983	Mark+Sweep Progress - 2200000/5900800
+1591016775.892301083	Mark+Sweep Progress - 2300000/5900800
+1591016775.892303944	Mark+Sweep Progress - 2400000/5900800
+1591016775.892307043	Mark+Sweep Progress - 2500000/5900800
+1591016775.892309904	Mark+Sweep Progress - 2600000/5900800
+1591016775.892313004	Mark+Sweep Progress - 2700000/5900800
+1591016775.892316103	Mark+Sweep Progress - 2800000/5900800
+1591016775.892318964	Mark+Sweep Progress - 2900000/5900800
+1591016775.892322063	Mark+Sweep Progress - 3000000/5900800
+1591016775.892324924	Mark+Sweep Progress - 3100000/5900800
+1591016775.892328024	Mark+Sweep Progress - 3200000/5900800
+1591016775.892332077	Mark+Sweep Progress - 3300000/5900800
+1591016775.892334938	Mark+Sweep Progress - 3400000/5900800
+1591016775.892338037	Mark+Sweep Progress - 3500000/5900800
+1591016775.892340899	Mark+Sweep Progress - 3600000/5900800
+1591016775.892343998	Mark+Sweep Progress - 3700000/5900800
+1591016775.892347097	Mark+Sweep Progress - 3800000/5900800
+1591016775.892349958	Mark+Sweep Progress - 3900000/5900800
+1591016775.892353058	Mark+Sweep Progress - 4000000/5900800
+1591016775.892355919	Mark+Sweep Progress - 4100000/5900800
+1591016775.892359018	Mark+Sweep Progress - 4200000/5900800
+1591016775.892362118	Mark+Sweep Progress - 4300000/5900800
+1591016775.892364979	Mark+Sweep Progress - 4400000/5900800
+1591016775.892368078	Mark+Sweep Progress - 4500000/5900800
+1591016775.892370939	Mark+Sweep Progress - 4600000/5900800
+1591016775.892374039	Mark+Sweep Progress - 4700000/5900800
+1591016775.892376900	Mark+Sweep Progress - 4800000/5900800
+1591016775.892379999	Mark+Sweep Progress - 4900000/5900800
+1591016775.892383099	Mark+Sweep Progress - 5000000/5900800
+1591016775.892385960	Mark+Sweep Progress - 5100000/5900800
+1591016775.892390013	Mark+Sweep Progress - 5200000/5900800
+1591016775.892393112	Mark+Sweep Progress - 5300000/5900800
+1591016775.892395973	Mark+Sweep Progress - 5400000/5900800
+1591016775.892400026	Mark+Sweep Progress - 5500000/5900800
+1591016775.892402887	Mark+Sweep Progress - 5600000/5900800
+1591016775.892405987	Mark+Sweep Progress - 5700000/5900800
+1591016775.892409086	Mark+Sweep Progress - 5800000/5900800
+1591016775.892411947	Mark+Sweep Progress - 5900000/5900800
+1591016775.892415047	Finish mark-and-sweep cleanup for curr_depth=34
+1591016775.892417908	Running threads for curr_depth=35
+1591016775.892421961	instance_run_solver_thread start
+1591016775.903702974	Reached 36400000 ; States-in-collection: 38350413 ; Time: 1591016775.903645
+1591016775.903723001	>>>Queue Stats: inserted=38350413 items_in_queue=1950413 extracted=36400000
+1591016776.287241936	Reached 36500000 ; States-in-collection: 38369603 ; Time: 1591016776.287181
+1591016776.287266970	>>>Queue Stats: inserted=38369603 items_in_queue=1869603 extracted=36500000
+1591016776.683728933	Reached 36600000 ; States-in-collection: 38381836 ; Time: 1591016776.683670
+1591016776.683753014	>>>Queue Stats: inserted=38381836 items_in_queue=1781836 extracted=36600000
+1591016777.115885019	Reached 36700000 ; States-in-collection: 38402225 ; Time: 1591016777.115828
+1591016777.115910053	>>>Queue Stats: inserted=38402225 items_in_queue=1702225 extracted=36700000
+1591016777.550641060	Reached 36800000 ; States-in-collection: 38422770 ; Time: 1591016777.550590
+1591016777.550666094	>>>Queue Stats: inserted=38422770 items_in_queue=1622770 extracted=36800000
+1591016777.911039114	Reached 36900000 ; States-in-collection: 38431367 ; Time: 1591016777.910989
+1591016777.911063910	>>>Queue Stats: inserted=38431367 items_in_queue=1531367 extracted=36900000
+1591016778.291347027	Reached 37000000 ; States-in-collection: 38441253 ; Time: 1591016778.291285
+1591016778.291372061	>>>Queue Stats: inserted=38441253 items_in_queue=1441253 extracted=37000000
+1591016778.718327045	Reached 37100000 ; States-in-collection: 38449667 ; Time: 1591016778.718251
+1591016778.718368053	>>>Queue Stats: inserted=38449667 items_in_queue=1349667 extracted=37100000
+1591016779.169296026	Reached 37200000 ; States-in-collection: 38460164 ; Time: 1591016779.169246
+1591016779.169318914	>>>Queue Stats: inserted=38460164 items_in_queue=1260164 extracted=37200000
+1591016779.595055103	Reached 37300000 ; States-in-collection: 38475116 ; Time: 1591016779.595000
+1591016779.595079899	>>>Queue Stats: inserted=38475116 items_in_queue=1175116 extracted=37300000
+1591016779.963757992	Reached 37400000 ; States-in-collection: 38483656 ; Time: 1591016779.963704
+1591016779.963782072	>>>Queue Stats: inserted=38483656 items_in_queue=1083656 extracted=37400000
+1591016780.356003046	Reached 37500000 ; States-in-collection: 38495525 ; Time: 1591016780.355940
+1591016780.356026888	>>>Queue Stats: inserted=38495525 items_in_queue=995525 extracted=37500000
+1591016780.924817085	Reached 37600000 ; States-in-collection: 38588149 ; Time: 1591016780.924762
+1591016780.924840927	>>>Queue Stats: inserted=38588149 items_in_queue=988149 extracted=37600000
+1591016781.495512962	Reached 37700000 ; States-in-collection: 38688147 ; Time: 1591016781.495453
+1591016781.495539904	>>>Queue Stats: inserted=38688147 items_in_queue=988147 extracted=37700000
+1591016782.106888056	Reached 37800000 ; States-in-collection: 38740714 ; Time: 1591016782.106832
+1591016782.106913090	>>>Queue Stats: inserted=38740714 items_in_queue=940714 extracted=37800000
+1591016782.699981928	Reached 37900000 ; States-in-collection: 38761627 ; Time: 1591016782.699923
+1591016782.700009108	>>>Queue Stats: inserted=38761627 items_in_queue=861627 extracted=37900000
+1591016783.226636887	Reached 38000000 ; States-in-collection: 38778229 ; Time: 1591016783.226585
+1591016783.226689100	>>>Queue Stats: inserted=38778229 items_in_queue=778229 extracted=38000000
+1591016783.700469971	Reached 38100000 ; States-in-collection: 38790917 ; Time: 1591016783.700412
+1591016783.700494051	>>>Queue Stats: inserted=38790917 items_in_queue=690917 extracted=38100000
+1591016784.363436937	Reached 38200000 ; States-in-collection: 38877877 ; Time: 1591016784.363385
+1591016784.363460064	>>>Queue Stats: inserted=38877877 items_in_queue=677877 extracted=38200000
+1591016785.094610929	Reached 38300000 ; States-in-collection: 38982601 ; Time: 1591016785.094520
+1591016785.094650030	>>>Queue Stats: inserted=38982601 items_in_queue=682601 extracted=38300000
+1591016785.628892899	Reached 38400000 ; States-in-collection: 39054877 ; Time: 1591016785.628827
+1591016785.628918886	>>>Queue Stats: inserted=39054877 items_in_queue=654877 extracted=38400000
+1591016786.256167889	Reached 38500000 ; States-in-collection: 39067943 ; Time: 1591016786.256115
+1591016786.256200075	>>>Queue Stats: inserted=39067943 items_in_queue=567943 extracted=38500000
+1591016786.855194092	Reached 38600000 ; States-in-collection: 39078181 ; Time: 1591016786.855138
+1591016786.855218887	>>>Queue Stats: inserted=39078181 items_in_queue=478181 extracted=38600000
+1591016787.625974894	Reached 38700000 ; States-in-collection: 39160144 ; Time: 1591016787.625926
+1591016787.625999928	>>>Queue Stats: inserted=39160144 items_in_queue=460144 extracted=38700000
+1591016788.334352016	Reached 38800000 ; States-in-collection: 39179014 ; Time: 1591016788.334300
+1591016788.334377050	>>>Queue Stats: inserted=39179014 items_in_queue=379014 extracted=38800000
+1591016789.229242086	Reached 38900000 ; States-in-collection: 39407573 ; Time: 1591016789.229180
+1591016789.229268074	>>>Queue Stats: inserted=39407573 items_in_queue=507573 extracted=38900000
+1591016789.909553051	Reached 39000000 ; States-in-collection: 39575477 ; Time: 1591016789.909498
+1591016789.909604073	>>>Queue Stats: inserted=39575477 items_in_queue=575477 extracted=39000000
+1591016790.464539051	Reached 39100000 ; States-in-collection: 39668030 ; Time: 1591016790.464482
+1591016790.464562893	>>>Queue Stats: inserted=39668030 items_in_queue=568030 extracted=39100000
+1591016791.027368069	Reached 39200000 ; States-in-collection: 39752642 ; Time: 1591016791.027307
+1591016791.027394056	>>>Queue Stats: inserted=39752642 items_in_queue=552642 extracted=39200000
+1591016791.584489107	Reached 39300000 ; States-in-collection: 39842439 ; Time: 1591016791.584422
+1591016791.584515095	>>>Queue Stats: inserted=39842439 items_in_queue=542439 extracted=39300000
+1591016792.199062109	Reached 39400000 ; States-in-collection: 39929641 ; Time: 1591016792.199006
+1591016792.199086905	>>>Queue Stats: inserted=39929641 items_in_queue=529641 extracted=39400000
+1591016792.708990097	Reached 39500000 ; States-in-collection: 39959313 ; Time: 1591016792.708929
+1591016792.709016085	>>>Queue Stats: inserted=39959313 items_in_queue=459313 extracted=39500000
+1591016793.449095964	Reached 39600000 ; States-in-collection: 40203755 ; Time: 1591016793.449038
+1591016793.449120998	>>>Queue Stats: inserted=40203755 items_in_queue=603755 extracted=39600000
+1591016793.977371931	Reached 39700000 ; States-in-collection: 40279204 ; Time: 1591016793.977319
+1591016793.977396011	>>>Queue Stats: inserted=40279204 items_in_queue=579204 extracted=39700000
+1591016794.377535105	Reached 39800000 ; States-in-collection: 40316047 ; Time: 1591016794.377480
+1591016794.377558947	>>>Queue Stats: inserted=40316047 items_in_queue=516047 extracted=39800000
+1591016794.784748077	Reached 39900000 ; States-in-collection: 40352891 ; Time: 1591016794.784692
+1591016794.784773111	>>>Queue Stats: inserted=40352891 items_in_queue=452891 extracted=39900000
+1591016795.209912062	Reached 40000000 ; States-in-collection: 40360229 ; Time: 1591016795.209848
+1591016795.209938049	>>>Queue Stats: inserted=40360229 items_in_queue=360229 extracted=40000000
+1591016795.235328913	instance_run_solver_thread end
+1591016795.235349894	Finished running threads for curr_depth=35
+1591016795.235353947	Start mark-and-sweep cleanup for curr_depth=35
+1591016796.166862965	Mark+Sweep Progress - 100000/3608576
+1591016796.166893959	Mark+Sweep Progress - 200000/3608576
+1591016796.166898012	Mark+Sweep Progress - 300000/3608576
+1591016796.166902065	Mark+Sweep Progress - 400000/3608576
+1591016796.166904926	Mark+Sweep Progress - 500000/3608576
+1591016796.166908026	Mark+Sweep Progress - 600000/3608576
+1591016796.166910887	Mark+Sweep Progress - 700000/3608576
+1591016796.166913986	Mark+Sweep Progress - 800000/3608576
+1591016796.166917086	Mark+Sweep Progress - 900000/3608576
+1591016796.166919947	Mark+Sweep Progress - 1000000/3608576
+1591016796.166923046	Mark+Sweep Progress - 1100000/3608576
+1591016796.166925907	Mark+Sweep Progress - 1200000/3608576
+1591016796.166929007	Mark+Sweep Progress - 1300000/3608576
+1591016796.166932106	Mark+Sweep Progress - 1400000/3608576
+1591016796.166934967	Mark+Sweep Progress - 1500000/3608576
+1591016796.166938066	Mark+Sweep Progress - 1600000/3608576
+1591016796.166940928	Mark+Sweep Progress - 1700000/3608576
+1591016796.166944981	Mark+Sweep Progress - 1800000/3608576
+1591016796.166948080	Mark+Sweep Progress - 1900000/3608576
+1591016796.166950941	Mark+Sweep Progress - 2000000/3608576
+1591016796.166954041	Mark+Sweep Progress - 2100000/3608576
+1591016796.166956902	Mark+Sweep Progress - 2200000/3608576
+1591016796.166960001	Mark+Sweep Progress - 2300000/3608576
+1591016796.166963100	Mark+Sweep Progress - 2400000/3608576
+1591016796.166965961	Mark+Sweep Progress - 2500000/3608576
+1591016796.166969061	Mark+Sweep Progress - 2600000/3608576
+1591016796.166971922	Mark+Sweep Progress - 2700000/3608576
+1591016796.166975975	Mark+Sweep Progress - 2800000/3608576
+1591016796.166979074	Mark+Sweep Progress - 2900000/3608576
+1591016796.166981936	Mark+Sweep Progress - 3000000/3608576
+1591016796.166985035	Mark+Sweep Progress - 3100000/3608576
+1591016796.166987896	Mark+Sweep Progress - 3200000/3608576
+1591016796.166990995	Mark+Sweep Progress - 3300000/3608576
+1591016796.166994095	Mark+Sweep Progress - 3400000/3608576
+1591016796.166996956	Mark+Sweep Progress - 3500000/3608576
+1591016796.167000055	Mark+Sweep Progress - 3600000/3608576
+1591016796.167002916	Finish mark-and-sweep cleanup for curr_depth=35
+1591016796.167006016	Running threads for curr_depth=36
+1591016796.167010069	instance_run_solver_thread start
+1591016796.401272058	Reached 40100000 ; States-in-collection: 40360229 ; Time: 1591016796.401206
+1591016796.401295900	>>>Queue Stats: inserted=40360229 items_in_queue=260229 extracted=40100000
+1591016796.791789055	Reached 40200000 ; States-in-collection: 40431909 ; Time: 1591016796.791723
+1591016796.791815042	>>>Queue Stats: inserted=40431909 items_in_queue=231909 extracted=40200000
+1591016797.084952116	Reached 40300000 ; States-in-collection: 40454437 ; Time: 1591016797.084893
+1591016797.084976912	>>>Queue Stats: inserted=40454437 items_in_queue=154437 extracted=40300000
+1591016797.411248922	Reached 40400000 ; States-in-collection: 40494173 ; Time: 1591016797.411182
+1591016797.411273003	>>>Queue Stats: inserted=40494173 items_in_queue=94173 extracted=40400000
+1591016798.253577948	Reached 40500000 ; States-in-collection: 40768729 ; Time: 1591016798.253556
+1591016798.253626108	>>>Queue Stats: inserted=40768729 items_in_queue=268729 extracted=40500000
+1591016799.005130053	Reached 40600000 ; States-in-collection: 40979535 ; Time: 1591016799.005071
+1591016799.005155087	>>>Queue Stats: inserted=40979535 items_in_queue=379535 extracted=40600000
+1591016799.472594023	Reached 40700000 ; States-in-collection: 41035698 ; Time: 1591016799.472534
+1591016799.472618103	>>>Queue Stats: inserted=41035698 items_in_queue=335698 extracted=40700000
+1591016799.965060949	Reached 40800000 ; States-in-collection: 41070064 ; Time: 1591016799.965010
+1591016799.965085030	>>>Queue Stats: inserted=41070064 items_in_queue=270064 extracted=40800000
+1591016800.441180944	Reached 40900000 ; States-in-collection: 41128477 ; Time: 1591016800.441125
+1591016800.441205978	>>>Queue Stats: inserted=41128477 items_in_queue=228477 extracted=40900000
+1591016800.967436075	Reached 41000000 ; States-in-collection: 41184816 ; Time: 1591016800.967376
+1591016800.967461109	>>>Queue Stats: inserted=41184816 items_in_queue=184816 extracted=41000000
+1591016801.541317940	Reached 41100000 ; States-in-collection: 41258344 ; Time: 1591016801.541264
+1591016801.541343927	>>>Queue Stats: inserted=41258344 items_in_queue=158344 extracted=41100000
+1591016802.239938974	Reached 41200000 ; States-in-collection: 41431192 ; Time: 1591016802.239881
+1591016802.239964008	>>>Queue Stats: inserted=41431192 items_in_queue=231192 extracted=41200000
+1591016802.786993027	Reached 41300000 ; States-in-collection: 41515816 ; Time: 1591016802.786935
+1591016802.787018061	>>>Queue Stats: inserted=41515816 items_in_queue=215816 extracted=41300000
+1591016803.332722902	Reached 41400000 ; States-in-collection: 41595664 ; Time: 1591016803.332664
+1591016803.332748890	>>>Queue Stats: inserted=41595664 items_in_queue=195664 extracted=41400000
+1591016803.979068041	Reached 41500000 ; States-in-collection: 41698413 ; Time: 1591016803.979009
+1591016803.979093075	>>>Queue Stats: inserted=41698413 items_in_queue=198413 extracted=41500000
+1591016804.628612041	Reached 41600000 ; States-in-collection: 41824921 ; Time: 1591016804.628529
+1591016804.628650904	>>>Queue Stats: inserted=41824921 items_in_queue=224921 extracted=41600000
+1591016805.296894073	Reached 41700000 ; States-in-collection: 41966614 ; Time: 1591016805.296839
+1591016805.296920061	>>>Queue Stats: inserted=41966614 items_in_queue=266614 extracted=41700000
+1591016805.813709021	Reached 41800000 ; States-in-collection: 42044500 ; Time: 1591016805.813653
+1591016805.813735008	>>>Queue Stats: inserted=42044500 items_in_queue=244500 extracted=41800000
+1591016806.393243074	Reached 41900000 ; States-in-collection: 42150145 ; Time: 1591016806.393187
+1591016806.393266916	>>>Queue Stats: inserted=42150145 items_in_queue=250145 extracted=41900000
+1591016806.870170116	Reached 42000000 ; States-in-collection: 42183706 ; Time: 1591016806.870117
+1591016806.870193958	>>>Queue Stats: inserted=42183706 items_in_queue=183706 extracted=42000000
+1591016807.360023975	Reached 42100000 ; States-in-collection: 42231984 ; Time: 1591016807.359961
+1591016807.360049009	>>>Queue Stats: inserted=42231984 items_in_queue=131984 extracted=42100000
+1591016807.947686911	Reached 42200000 ; States-in-collection: 42307299 ; Time: 1591016807.947625
+1591016807.947711945	>>>Queue Stats: inserted=42307299 items_in_queue=107299 extracted=42200000
+1591016808.426853895	Reached 42300000 ; States-in-collection: 42373763 ; Time: 1591016808.426787
+1591016808.426878929	>>>Queue Stats: inserted=42373763 items_in_queue=73763 extracted=42300000
+1591016808.743644953	instance_run_solver_thread end
+1591016808.743688107	Finished running threads for curr_depth=36
+1591016808.743691921	Start mark-and-sweep cleanup for curr_depth=36
+1591016809.287292004	Mark+Sweep Progress - 100000/2361344
+1591016809.287322998	Mark+Sweep Progress - 200000/2361344
+1591016809.287328005	Mark+Sweep Progress - 300000/2361344
+1591016809.287331104	Mark+Sweep Progress - 400000/2361344
+1591016809.287334919	Mark+Sweep Progress - 500000/2361344
+1591016809.287338018	Mark+Sweep Progress - 600000/2361344
+1591016809.287341118	Mark+Sweep Progress - 700000/2361344
+1591016809.287344933	Mark+Sweep Progress - 800000/2361344
+1591016809.287348032	Mark+Sweep Progress - 900000/2361344
+1591016809.287352085	Mark+Sweep Progress - 1000000/2361344
+1591016809.287357092	Mark+Sweep Progress - 1100000/2361344
+1591016809.287360907	Mark+Sweep Progress - 1200000/2361344
+1591016809.287365913	Mark+Sweep Progress - 1300000/2361344
+1591016809.287369967	Mark+Sweep Progress - 1400000/2361344
+1591016809.287374020	Mark+Sweep Progress - 1500000/2361344
+1591016809.287379026	Mark+Sweep Progress - 1600000/2361344
+1591016809.287383080	Mark+Sweep Progress - 1700000/2361344
+1591016809.287386894	Mark+Sweep Progress - 1800000/2361344
+1591016809.287391901	Mark+Sweep Progress - 1900000/2361344
+1591016809.287395954	Mark+Sweep Progress - 2000000/2361344
+1591016809.287400007	Mark+Sweep Progress - 2100000/2361344
+1591016809.287404060	Mark+Sweep Progress - 2200000/2361344
+1591016809.287409067	Mark+Sweep Progress - 2300000/2361344
+1591016809.287412882	Finish mark-and-sweep cleanup for curr_depth=36
+1591016809.287416935	Running threads for curr_depth=37
+1591016809.287421942	instance_run_solver_thread start
+1591016809.407007933	Reached 42400000 ; States-in-collection: 42457333 ; Time: 1591016809.406943
+1591016809.407030106	>>>Queue Stats: inserted=42457333 items_in_queue=57333 extracted=42400000
+1591016809.997287035	Reached 42500000 ; States-in-collection: 42656853 ; Time: 1591016809.997229
+1591016809.997313023	>>>Queue Stats: inserted=42656853 items_in_queue=156853 extracted=42500000
+1591016810.758300066	Reached 42600000 ; States-in-collection: 42913922 ; Time: 1591016810.758250
+1591016810.758325100	>>>Queue Stats: inserted=42913922 items_in_queue=313922 extracted=42600000
+1591016811.270428896	Reached 42700000 ; States-in-collection: 42998537 ; Time: 1591016811.270376
+1591016811.270452976	>>>Queue Stats: inserted=42998537 items_in_queue=298537 extracted=42700000
+1591016811.790947914	Reached 42800000 ; States-in-collection: 43083152 ; Time: 1591016811.790896
+1591016811.790972948	>>>Queue Stats: inserted=43083152 items_in_queue=283152 extracted=42800000
+1591016812.294043064	Reached 42900000 ; States-in-collection: 43157229 ; Time: 1591016812.293988
+1591016812.294068098	>>>Queue Stats: inserted=43157229 items_in_queue=257229 extracted=42900000
+1591016812.750197887	Reached 43000000 ; States-in-collection: 43178439 ; Time: 1591016812.750147
+1591016812.750221968	>>>Queue Stats: inserted=43178439 items_in_queue=178439 extracted=43000000
+1591016813.215353966	Reached 43100000 ; States-in-collection: 43199651 ; Time: 1591016813.215300
+1591016813.215379953	>>>Queue Stats: inserted=43199651 items_in_queue=99651 extracted=43100000
+1591016813.716908932	Reached 43200000 ; States-in-collection: 43224269 ; Time: 1591016813.716856
+1591016813.716933966	>>>Queue Stats: inserted=43224269 items_in_queue=24269 extracted=43200000
+1591016814.488197088	Reached 43300000 ; States-in-collection: 43414033 ; Time: 1591016814.488144
+1591016814.488221884	>>>Queue Stats: inserted=43414033 items_in_queue=114033 extracted=43300000
+1591016815.155144930	Reached 43400000 ; States-in-collection: 43528794 ; Time: 1591016815.155087
+1591016815.155169964	>>>Queue Stats: inserted=43528794 items_in_queue=128794 extracted=43400000
+1591016815.919641018	Reached 43500000 ; States-in-collection: 43709946 ; Time: 1591016815.919581
+1591016815.919667959	>>>Queue Stats: inserted=43709946 items_in_queue=209946 extracted=43500000
+1591016816.554718018	Reached 43600000 ; States-in-collection: 43833397 ; Time: 1591016816.554661
+1591016816.554744005	>>>Queue Stats: inserted=43833397 items_in_queue=233397 extracted=43600000
+1591016817.056637049	Reached 43700000 ; States-in-collection: 43894690 ; Time: 1591016817.056582
+1591016817.056663036	>>>Queue Stats: inserted=43894690 items_in_queue=194690 extracted=43700000
+1591016817.556301117	Reached 43800000 ; States-in-collection: 43955985 ; Time: 1591016817.556232
+1591016817.556327105	>>>Queue Stats: inserted=43955985 items_in_queue=155985 extracted=43800000
+1591016817.997133970	Reached 43900000 ; States-in-collection: 43956517 ; Time: 1591016817.997068
+1591016817.997158051	>>>Queue Stats: inserted=43956517 items_in_queue=56517 extracted=43900000
+1591016818.242316961	instance_run_solver_thread end
+1591016818.242343903	Finished running threads for curr_depth=37
+1591016818.242347956	Start mark-and-sweep cleanup for curr_depth=37
+1591016818.565854073	Mark+Sweep Progress - 100000/1589248
+1591016818.565886021	Mark+Sweep Progress - 200000/1589248
+1591016818.565891027	Mark+Sweep Progress - 300000/1589248
+1591016818.565896034	Mark+Sweep Progress - 400000/1589248
+1591016818.565898895	Mark+Sweep Progress - 500000/1589248
+1591016818.565901995	Mark+Sweep Progress - 600000/1589248
+1591016818.565905094	Mark+Sweep Progress - 700000/1589248
+1591016818.565907955	Mark+Sweep Progress - 800000/1589248
+1591016818.565911055	Mark+Sweep Progress - 900000/1589248
+1591016818.565913916	Mark+Sweep Progress - 1000000/1589248
+1591016818.565917015	Mark+Sweep Progress - 1100000/1589248
+1591016818.565920115	Mark+Sweep Progress - 1200000/1589248
+1591016818.565922976	Mark+Sweep Progress - 1300000/1589248
+1591016818.565926075	Mark+Sweep Progress - 1400000/1589248
+1591016818.565928936	Mark+Sweep Progress - 1500000/1589248
+1591016818.565932035	Finish mark-and-sweep cleanup for curr_depth=37
+1591016818.565934896	Running threads for curr_depth=38
+1591016818.565937996	instance_run_solver_thread start
+1591016818.565942049	instance_run_solver_thread end
+1591016818.565944910	Finished running threads for curr_depth=38
+1591016818.565948009	Start mark-and-sweep cleanup for curr_depth=38
+1591016818.565953016	Finish mark-and-sweep cleanup for curr_depth=38
+1591016818.565957069	Running threads for curr_depth=39
+1591016818.565960884	instance_run_solver_thread start
+1591016818.565964937	instance_run_solver_thread end
+1591016818.565968990	Finished running threads for curr_depth=39
+1591016818.565973997	Start mark-and-sweep cleanup for curr_depth=39
+1591016818.565978050	Finish mark-and-sweep cleanup for curr_depth=39
+1591016818.565982103	Running threads for curr_depth=40
+1591016818.565985918	instance_run_solver_thread start
+1591016818.565990925	instance_run_solver_thread end
+1591016818.565994978	Finished running threads for curr_depth=40
+1591016818.565998077	Start mark-and-sweep cleanup for curr_depth=40
+1591016818.566003084	Finish mark-and-sweep cleanup for curr_depth=40
+1591016818.566006899	Running threads for curr_depth=41
+1591016818.566010952	instance_run_solver_thread start
+1591016818.566015005	instance_run_solver_thread end
+1591016818.566020012	Finished running threads for curr_depth=41
+1591016818.566024065	Start mark-and-sweep cleanup for curr_depth=41
+1591016818.566029072	Finish mark-and-sweep cleanup for curr_depth=41
+1591016818.566032887	Running threads for curr_depth=42
+1591016818.566037893	instance_run_solver_thread start
+1591016818.566042900	instance_run_solver_thread end
+1591016818.566046953	Finished running threads for curr_depth=42
+1591016818.566051960	Start mark-and-sweep cleanup for curr_depth=42
+1591016818.566056967	Finish mark-and-sweep cleanup for curr_depth=42
+1591016818.566061974	Running threads for curr_depth=43
+1591016818.566066980	instance_run_solver_thread start
+1591016818.566071033	instance_run_solver_thread end
+1591016818.566076040	Finished running threads for curr_depth=43
+1591016818.566081047	Start mark-and-sweep cleanup for curr_depth=43
+1591016818.566085100	Finish mark-and-sweep cleanup for curr_depth=43
+1591016818.566090107	Running threads for curr_depth=44
+1591016818.566095114	instance_run_solver_thread start
+1591016818.566099882	instance_run_solver_thread end
+1591016818.566103935	Finished running threads for curr_depth=44
+1591016818.566108942	Start mark-and-sweep cleanup for curr_depth=44
+1591016818.566112995	Finish mark-and-sweep cleanup for curr_depth=44
+1591016818.566117048	Running threads for curr_depth=45
+1591016818.566122055	instance_run_solver_thread start
+1591016818.566126108	instance_run_solver_thread end
+1591016818.566131115	Finished running threads for curr_depth=45
+1591016818.566145897	Start mark-and-sweep cleanup for curr_depth=45
+1591016818.566152096	Finish mark-and-sweep cleanup for curr_depth=45
+1591016818.566157103	Running threads for curr_depth=46
+1591016818.566162109	instance_run_solver_thread start
+1591016818.566165924	instance_run_solver_thread end
+1591016818.566170931	Finished running threads for curr_depth=46
+1591016818.566175938	Start mark-and-sweep cleanup for curr_depth=46
+1591016818.566180944	Finish mark-and-sweep cleanup for curr_depth=46
+1591016818.566185951	Running threads for curr_depth=47
+1591016818.566190958	instance_run_solver_thread start
+1591016818.566195965	instance_run_solver_thread end
+1591016818.566200972	Finished running threads for curr_depth=47
+1591016818.566205978	Start mark-and-sweep cleanup for curr_depth=47
+1591016818.566210985	Finish mark-and-sweep cleanup for curr_depth=47
+1591016818.566215038	Running threads for curr_depth=48
+1591016818.566220045	instance_run_solver_thread start
+1591016818.566225052	instance_run_solver_thread end
+1591016818.566230059	Finished running threads for curr_depth=48
+1591016818.566235065	Start mark-and-sweep cleanup for curr_depth=48
+1591016818.566240072	Finish mark-and-sweep cleanup for curr_depth=48
+1591016818.566243887	Running threads for curr_depth=49
+1591016818.566248894	instance_run_solver_thread start
+1591016818.566253901	instance_run_solver_thread end
+1591016818.566258907	Finished running threads for curr_depth=49
+1591016818.566263914	Start mark-and-sweep cleanup for curr_depth=49
+1591016818.566268921	Finish mark-and-sweep cleanup for curr_depth=49
+1591016818.566273928	Running threads for curr_depth=50
+1591016818.566278934	instance_run_solver_thread start
+1591016818.566282988	instance_run_solver_thread end
+1591016818.566287994	Finished running threads for curr_depth=50
+1591016818.566293001	Start mark-and-sweep cleanup for curr_depth=50
+1591016818.566298008	Finish mark-and-sweep cleanup for curr_depth=50
+1591016818.566303015	Running threads for curr_depth=51
+1591016818.566307068	instance_run_solver_thread start
+1591016818.566312075	instance_run_solver_thread end
+1591016818.566317081	Finished running threads for curr_depth=51
+1591016818.566322088	Start mark-and-sweep cleanup for curr_depth=51
+1591016818.566327095	Finish mark-and-sweep cleanup for curr_depth=51
+1591016818.566332102	Running threads for curr_depth=52
+1591016818.566335917	instance_run_solver_thread start
+1591016818.566340923	instance_run_solver_thread end
+1591016818.566345930	Finished running threads for curr_depth=52
+1591016818.566350937	Start mark-and-sweep cleanup for curr_depth=52
+1591016818.566355944	Finish mark-and-sweep cleanup for curr_depth=52
+1591016818.566360950	Running threads for curr_depth=53
+1591016818.566365957	instance_run_solver_thread start
+1591016818.566370964	instance_run_solver_thread end
+1591016818.566375017	Finished running threads for curr_depth=53
+1591016818.566380978	Start mark-and-sweep cleanup for curr_depth=53
+1591016818.566385984	Finish mark-and-sweep cleanup for curr_depth=53
+1591016818.566390038	Running threads for curr_depth=54
+1591016818.566395044	instance_run_solver_thread start
+1591016818.566400051	instance_run_solver_thread end
+1591016818.566405058	Finished running threads for curr_depth=54
+1591016818.566410065	Start mark-and-sweep cleanup for curr_depth=54
+1591016818.566414118	Finish mark-and-sweep cleanup for curr_depth=54
+1591016818.566418886	Running threads for curr_depth=55
+1591016818.566423893	instance_run_solver_thread start
+1591016818.566428900	instance_run_solver_thread end
+1591016818.566433907	Finished running threads for curr_depth=55
+1591016818.566438913	Start mark-and-sweep cleanup for curr_depth=55
+1591016818.566443920	Finish mark-and-sweep cleanup for curr_depth=55
+1591016818.566448927	Running threads for curr_depth=56
+1591016818.566453934	instance_run_solver_thread start
+1591016818.566458941	instance_run_solver_thread end
+1591016818.566463947	Finished running threads for curr_depth=56
+1591016818.566468954	Start mark-and-sweep cleanup for curr_depth=56
+1591016818.566473961	Finish mark-and-sweep cleanup for curr_depth=56
+1591016818.566478968	Running threads for curr_depth=57
+1591016818.566483021	instance_run_solver_thread start
+1591016818.566488028	instance_run_solver_thread end
+1591016818.566493034	Finished running threads for curr_depth=57
+1591016818.566498041	Start mark-and-sweep cleanup for curr_depth=57
+1591016818.566503048	Finish mark-and-sweep cleanup for curr_depth=57
+1591016818.566508055	Running threads for curr_depth=58
+1591016818.566513062	instance_run_solver_thread start
+1591016818.566518068	instance_run_solver_thread end
+1591016818.566523075	Finished running threads for curr_depth=58
+1591016818.566528082	Start mark-and-sweep cleanup for curr_depth=58
+1591016818.566533089	Finish mark-and-sweep cleanup for curr_depth=58
+1591016818.566536903	Running threads for curr_depth=59
+1591016818.566541910	instance_run_solver_thread start
+1591016818.566546917	instance_run_solver_thread end
+1591016818.566551924	Finished running threads for curr_depth=59
+1591016818.566556931	Start mark-and-sweep cleanup for curr_depth=59
+1591016818.566561937	Finish mark-and-sweep cleanup for curr_depth=59
+1591016818.566566944	Running threads for curr_depth=60
+1591016818.566571951	instance_run_solver_thread start
+1591016818.566576958	instance_run_solver_thread end
+1591016818.566592932	Finished running threads for curr_depth=60
+1591016818.566597939	Start mark-and-sweep cleanup for curr_depth=60
+1591016818.566602945	Finish mark-and-sweep cleanup for curr_depth=60
+1591016818.566607952	Running threads for curr_depth=61
+1591016818.566612959	instance_run_solver_thread start
+1591016818.566617012	instance_run_solver_thread end
+1591016818.566622019	Finished running threads for curr_depth=61
+1591016818.566627026	Start mark-and-sweep cleanup for curr_depth=61
+1591016818.566632032	Finish mark-and-sweep cleanup for curr_depth=61
+1591016818.566637039	Running threads for curr_depth=62
+1591016818.566642046	instance_run_solver_thread start
+1591016818.566646099	instance_run_solver_thread end
+1591016818.566651106	Finished running threads for curr_depth=62
+1591016818.566656113	Start mark-and-sweep cleanup for curr_depth=62
+1591016818.566660881	Finish mark-and-sweep cleanup for curr_depth=62
+1591016818.566665888	Running threads for curr_depth=63
+1591016818.566670895	instance_run_solver_thread start
+1591016818.566675901	instance_run_solver_thread end
+1591016818.566680908	Finished running threads for curr_depth=63
+1591016818.566684961	Start mark-and-sweep cleanup for curr_depth=63
+1591016818.566689968	Finish mark-and-sweep cleanup for curr_depth=63
+1591016818.566694021	Running threads for curr_depth=64
+1591016818.566699982	instance_run_solver_thread start
+1591016818.566704988	instance_run_solver_thread end
+1591016818.566709995	Finished running threads for curr_depth=64
+1591016818.566715002	Start mark-and-sweep cleanup for curr_depth=64
+1591016818.566719055	Finish mark-and-sweep cleanup for curr_depth=64
+1591016818.566724062	Running threads for curr_depth=65
+1591016818.566729069	instance_run_solver_thread start
+1591016818.566734076	instance_run_solver_thread end
+1591016818.566739082	Finished running threads for curr_depth=65
+1591016818.566742897	Start mark-and-sweep cleanup for curr_depth=65
+1591016818.566746950	Finish mark-and-sweep cleanup for curr_depth=65
+1591016818.566751003	Running threads for curr_depth=66
+1591016818.566755056	instance_run_solver_thread start
+1591016818.566759109	instance_run_solver_thread end
+1591016818.566762924	Finished running threads for curr_depth=66
+1591016818.566766977	Start mark-and-sweep cleanup for curr_depth=66
+1591016818.566771030	Finish mark-and-sweep cleanup for curr_depth=66
+1591016818.566776037	Running threads for curr_depth=67
+1591016818.566781998	instance_run_solver_thread start
+1591016818.566787004	instance_run_solver_thread end
+1591016818.566792011	Finished running threads for curr_depth=67
+1591016818.566797018	Start mark-and-sweep cleanup for curr_depth=67
+1591016818.566802025	Finish mark-and-sweep cleanup for curr_depth=67
+1591016818.566806078	Running threads for curr_depth=68
+1591016818.566811085	instance_run_solver_thread start
+1591016818.566816092	instance_run_solver_thread end
+1591016818.566821098	Finished running threads for curr_depth=68
+1591016818.566826105	Start mark-and-sweep cleanup for curr_depth=68
+1591016818.566831112	Finish mark-and-sweep cleanup for curr_depth=68
+1591016818.566836119	Running threads for curr_depth=69
+1591016818.566840887	instance_run_solver_thread start
+1591016818.566844940	instance_run_solver_thread end
+1591016818.566849947	Finished running threads for curr_depth=69
+1591016818.566854954	Start mark-and-sweep cleanup for curr_depth=69
+1591016818.566860914	Finish mark-and-sweep cleanup for curr_depth=69
+1591016818.566864967	Running threads for curr_depth=70
+1591016818.566869974	instance_run_solver_thread start
+1591016818.566874981	instance_run_solver_thread end
+1591016818.566879988	Finished running threads for curr_depth=70
+1591016818.566884995	Start mark-and-sweep cleanup for curr_depth=70
+1591016818.566890001	Finish mark-and-sweep cleanup for curr_depth=70
+1591016818.566895008	Running threads for curr_depth=71
+1591016818.566899061	instance_run_solver_thread start
+1591016818.566904068	instance_run_solver_thread end
+1591016818.566909075	Finished running threads for curr_depth=71
+1591016818.566914082	Start mark-and-sweep cleanup for curr_depth=71
+1591016818.566919088	Finish mark-and-sweep cleanup for curr_depth=71
+1591016818.566924095	Running threads for curr_depth=72
+1591016818.566929102	instance_run_solver_thread start
+1591016818.566932917	instance_run_solver_thread end
+1591016818.566937923	Finished running threads for curr_depth=72
+1591016818.566942930	Start mark-and-sweep cleanup for curr_depth=72
+1591016818.566947937	Finish mark-and-sweep cleanup for curr_depth=72
+1591016818.566952944	Running threads for curr_depth=73
+1591016818.566957951	instance_run_solver_thread start
+1591016818.566962957	instance_run_solver_thread end
+1591016818.566967964	Finished running threads for curr_depth=73
+1591016818.566972971	Start mark-and-sweep cleanup for curr_depth=73
+1591016818.566977978	Finish mark-and-sweep cleanup for curr_depth=73
+1591016818.566982985	Running threads for curr_depth=74
+1591016818.566987038	instance_run_solver_thread start
+1591016818.566992998	instance_run_solver_thread end
+1591016818.566998005	Finished running threads for curr_depth=74
+1591016818.567002058	Start mark-and-sweep cleanup for curr_depth=74
+1591016818.567007065	Finish mark-and-sweep cleanup for curr_depth=74
+1591016818.567012072	Running threads for curr_depth=75
+1591016818.567017078	instance_run_solver_thread start
+1591016818.567022085	instance_run_solver_thread end
+1591016818.567025900	Finished running threads for curr_depth=75
+1591016818.567030907	Start mark-and-sweep cleanup for curr_depth=75
+1591016818.567035913	Finish mark-and-sweep cleanup for curr_depth=75
+1591016818.567040920	Running threads for curr_depth=76
+1591016818.567045927	instance_run_solver_thread start
+1591016818.567050934	instance_run_solver_thread end
+1591016818.567055941	Finished running threads for curr_depth=76
+1591016818.567060947	Start mark-and-sweep cleanup for curr_depth=76
+1591016818.567065954	Finish mark-and-sweep cleanup for curr_depth=76
+1591016818.567070961	Running threads for curr_depth=77
+1591016818.567075014	instance_run_solver_thread start
+1591016818.567080021	instance_run_solver_thread end
+1591016818.567085028	Finished running threads for curr_depth=77
+1591016818.567090034	Start mark-and-sweep cleanup for curr_depth=77
+1591016818.567095041	Finish mark-and-sweep cleanup for curr_depth=77
+1591016818.567100048	Running threads for curr_depth=78
+1591016818.567104101	instance_run_solver_thread start
+1591016818.567109108	instance_run_solver_thread end
+1591016818.567114115	Finished running threads for curr_depth=78
+1591016818.567118883	Start mark-and-sweep cleanup for curr_depth=78
+1591016818.567123890	Finish mark-and-sweep cleanup for curr_depth=78
+1591016818.567128897	Running threads for curr_depth=79
+1591016818.567133904	instance_run_solver_thread start
+1591016818.567138910	instance_run_solver_thread end
+1591016818.567143917	Finished running threads for curr_depth=79
+1591016818.567148924	Start mark-and-sweep cleanup for curr_depth=79
+1591016818.567153931	Finish mark-and-sweep cleanup for curr_depth=79
+1591016818.567158937	Running threads for curr_depth=80
+1591016818.567163944	instance_run_solver_thread start
+1591016818.567173004	instance_run_solver_thread end
+1591016818.567178011	Finished running threads for curr_depth=80
+1591016818.567183018	Start mark-and-sweep cleanup for curr_depth=80
+1591016818.567188025	Finish mark-and-sweep cleanup for curr_depth=80
+1591016818.567193031	Running threads for curr_depth=81
+1591016818.567197084	instance_run_solver_thread start
+1591016818.567202091	instance_run_solver_thread end
+1591016818.567207098	Finished running threads for curr_depth=81
+1591016818.567212105	Start mark-and-sweep cleanup for curr_depth=81
+1591016818.567217112	Finish mark-and-sweep cleanup for curr_depth=81
+1591016818.567220926	Running threads for curr_depth=82
+1591016818.567226887	instance_run_solver_thread start
+1591016818.567230940	instance_run_solver_thread end
+1591016818.567235947	Finished running threads for curr_depth=82
+1591016818.567240953	Start mark-and-sweep cleanup for curr_depth=82
+1591016818.567245960	Finish mark-and-sweep cleanup for curr_depth=82
+1591016818.567250967	Running threads for curr_depth=83
+1591016818.567255974	instance_run_solver_thread start
+1591016818.567260981	instance_run_solver_thread end
+1591016818.567265987	Finished running threads for curr_depth=83
+1591016818.567270994	Start mark-and-sweep cleanup for curr_depth=83
+1591016818.567276001	Finish mark-and-sweep cleanup for curr_depth=83
+1591016818.567281008	Running threads for curr_depth=84
+1591016818.567286015	instance_run_solver_thread start
+1591016818.567291021	instance_run_solver_thread end
+1591016818.567295074	Finished running threads for curr_depth=84
+1591016818.567300081	Start mark-and-sweep cleanup for curr_depth=84
+1591016818.567305088	Finish mark-and-sweep cleanup for curr_depth=84
+1591016818.567310095	Running threads for curr_depth=85
+1591016818.567315102	instance_run_solver_thread start
+1591016818.567320108	instance_run_solver_thread end
+1591016818.567323923	Finished running threads for curr_depth=85
+1591016818.567328930	Start mark-and-sweep cleanup for curr_depth=85
+1591016818.567333937	Finish mark-and-sweep cleanup for curr_depth=85
+1591016818.567338943	Running threads for curr_depth=86
+1591016818.567343950	instance_run_solver_thread start
+1591016818.567348957	instance_run_solver_thread end
+1591016818.567353964	Finished running threads for curr_depth=86
+1591016818.567358971	Start mark-and-sweep cleanup for curr_depth=86
+1591016818.567363977	Finish mark-and-sweep cleanup for curr_depth=86
+1591016818.567368031	Running threads for curr_depth=87
+1591016818.567373037	instance_run_solver_thread start
+1591016818.567378044	instance_run_solver_thread end
+1591016818.567383051	Finished running threads for curr_depth=87
+1591016818.567388058	Start mark-and-sweep cleanup for curr_depth=87
+1591016818.567393064	Finish mark-and-sweep cleanup for curr_depth=87
+1591016818.567397118	Running threads for curr_depth=88
+1591016818.567403078	instance_run_solver_thread start
+1591016818.567406893	instance_run_solver_thread end
+1591016818.567411900	Finished running threads for curr_depth=88
+1591016818.567416906	Start mark-and-sweep cleanup for curr_depth=88
+1591016818.567420959	Finish mark-and-sweep cleanup for curr_depth=88
+1591016818.567425966	Running threads for curr_depth=89
+1591016818.567430973	instance_run_solver_thread start
+1591016818.567435980	instance_run_solver_thread end
+1591016818.567440987	Finished running threads for curr_depth=89
+1591016818.567445993	Start mark-and-sweep cleanup for curr_depth=89
+1591016818.567451000	Finish mark-and-sweep cleanup for curr_depth=89
+1591016818.567456007	Running threads for curr_depth=90
+1591016818.567461014	instance_run_solver_thread start
+1591016818.567466021	instance_run_solver_thread end
+1591016818.567471027	Finished running threads for curr_depth=90
+1591016818.567475080	Start mark-and-sweep cleanup for curr_depth=90
+1591016818.567480087	Finish mark-and-sweep cleanup for curr_depth=90
+1591016818.567485094	Running threads for curr_depth=91
+1591016818.567490101	instance_run_solver_thread start
+1591016818.567493916	instance_run_solver_thread end
+1591016818.567498922	Finished running threads for curr_depth=91
+1591016818.567503929	Start mark-and-sweep cleanup for curr_depth=91
+1591016818.567508936	Finish mark-and-sweep cleanup for curr_depth=91
+1591016818.567513943	Running threads for curr_depth=92
+1591016818.567518950	instance_run_solver_thread start
+1591016818.567523956	instance_run_solver_thread end
+1591016818.567528963	Finished running threads for curr_depth=92
+1591016818.567533970	Start mark-and-sweep cleanup for curr_depth=92
+1591016818.567538023	Finish mark-and-sweep cleanup for curr_depth=92
+1591016818.567543030	Running threads for curr_depth=93
+1591016818.567548037	instance_run_solver_thread start
+1591016818.567553043	instance_run_solver_thread end
+1591016818.567558050	Finished running threads for curr_depth=93
+1591016818.567563057	Start mark-and-sweep cleanup for curr_depth=93
+1591016818.567568064	Finish mark-and-sweep cleanup for curr_depth=93
+1591016818.567573071	Running threads for curr_depth=94
+1591016818.567578077	instance_run_solver_thread start
+1591016818.567588091	instance_run_solver_thread end
+1591016818.567593098	Finished running threads for curr_depth=94
+1591016818.567598104	Start mark-and-sweep cleanup for curr_depth=94
+1591016818.567603111	Finish mark-and-sweep cleanup for curr_depth=94
+1591016818.567608118	Running threads for curr_depth=95
+1591016818.567611933	instance_run_solver_thread start
+1591016818.567616940	instance_run_solver_thread end
+1591016818.567621946	Finished running threads for curr_depth=95
+1591016818.567626953	Start mark-and-sweep cleanup for curr_depth=95
+1591016818.567631960	Finish mark-and-sweep cleanup for curr_depth=95
+1591016818.567636967	Running threads for curr_depth=96
+1591016818.567641973	instance_run_solver_thread start
+1591016818.567646980	instance_run_solver_thread end
+1591016818.567651987	Finished running threads for curr_depth=96
+1591016818.567656040	Start mark-and-sweep cleanup for curr_depth=96
+1591016818.567661047	Finish mark-and-sweep cleanup for curr_depth=96
+1591016818.567666054	Running threads for curr_depth=97
+1591016818.567671061	instance_run_solver_thread start
+1591016818.567676067	instance_run_solver_thread end
+1591016818.567681074	Finished running threads for curr_depth=97
+1591016818.567684889	Start mark-and-sweep cleanup for curr_depth=97
+1591016818.567689896	Finish mark-and-sweep cleanup for curr_depth=97
+1591016818.567694902	Running threads for curr_depth=98
+1591016818.567699909	instance_run_solver_thread start
+1591016818.567704916	instance_run_solver_thread end
+1591016818.567709923	Finished running threads for curr_depth=98
+1591016818.567713976	Start mark-and-sweep cleanup for curr_depth=98
+1591016818.567718983	Finish mark-and-sweep cleanup for curr_depth=98
+1591016818.567723989	Running threads for curr_depth=99
+1591016818.567728996	instance_run_solver_thread start
+1591016818.567734003	instance_run_solver_thread end
+1591016818.567739010	Finished running threads for curr_depth=99
+1591016818.567744017	Start mark-and-sweep cleanup for curr_depth=99
+1591016818.567749023	Finish mark-and-sweep cleanup for curr_depth=99
+1591016818.567753077	Running threads for curr_depth=100
+1591016818.567758083	instance_run_solver_thread start
+1591016818.567763090	instance_run_solver_thread end
+1591016818.567768097	Finished running threads for curr_depth=100
+1591016818.567773104	Start mark-and-sweep cleanup for curr_depth=100
+1591016818.567778111	Finish mark-and-sweep cleanup for curr_depth=100
+1591016818.567783117	Running threads for curr_depth=101
+1591016818.567787886	instance_run_solver_thread start
+1591016818.567792892	instance_run_solver_thread end
+1591016818.567797899	Finished running threads for curr_depth=101
+1591016818.567802906	Start mark-and-sweep cleanup for curr_depth=101
+1591016818.567807913	Finish mark-and-sweep cleanup for curr_depth=101
+1591016818.567811966	Running threads for curr_depth=102
+1591016818.567816973	instance_run_solver_thread start
+1591016818.567821980	instance_run_solver_thread end
+1591016818.567826986	Finished running threads for curr_depth=102
+1591016818.567831039	Start mark-and-sweep cleanup for curr_depth=102
+1591016818.567836046	Finish mark-and-sweep cleanup for curr_depth=102
+1591016818.567840099	Running threads for curr_depth=103
+1591016818.567843914	instance_run_solver_thread start
+1591016818.567847967	instance_run_solver_thread end
+1591016818.567852020	Finished running threads for curr_depth=103
+1591016818.567856073	Start mark-and-sweep cleanup for curr_depth=103
+1591016818.567859888	Finish mark-and-sweep cleanup for curr_depth=103
+1591016818.567866087	instance_run_all_threads end
+1591016818.567871094	handle_and_destroy_instance_solution start
+1591016818.567876101	Reached 43956517 ; States-in-collection: 43956517 ; Time: 1591016818.566266
+1591016818.567881107	>>>Queue Stats: inserted=43956517 items_in_queue=0 extracted=43956517
+1591016818.567886114	Could not solve successfully.
+1591016818.567890882	handle_and_destroy_instance_solution end
