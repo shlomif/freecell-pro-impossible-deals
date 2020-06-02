@@ -17,7 +17,6 @@ for fn in sorted(glob.glob(
         "deal-([0-9]+)/\\1\\.dump$", fn)
     assert m
     deal_idx = int(m.group(1))
-    print(deal_idx)
     assert deal_idx not in filtered
     found = False
     for line in open(fn, 'rt'):
@@ -25,7 +24,7 @@ for fn in sorted(glob.glob(
                     line):
             found = True
             break
-    assert found
+    assert found, "deal_idx = {} ( from {} ) failed!".format(deal_idx, fn)
 
     filtered.add(deal_idx)
 
