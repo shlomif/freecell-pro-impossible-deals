@@ -18,13 +18,20 @@
 # IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 # CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-all: intractable2.txt
+all: test
 
 intractable1.txt: list-intractables1.pl
 	perl $<
 
 intractable2.txt: filter-based-on-dbm-solver-results.py intractable1.txt
 	python3 $<
+
+test: intractable2.txt
+	perl -e 'my $$fn = shift; die qq{Not empty!} if (-s $$fn); print "OK.\n"' "$<"
+
+check: test
+
+.PHONY: check test
 
 # vim:ft=make
 #
