@@ -27,7 +27,7 @@ intractable2.txt: filter-based-on-dbm-solver-results.py intractable1.txt
 	python3 $<
 
 test: intractable2.txt
-	perl -e 'my $$fn = shift; die qq{Not empty!} if (-s $$fn); print "OK.\n"' "$<"
+	perl check.pl "$<"
 
 check: test
 
